@@ -29,15 +29,13 @@ My research interest includes GeoAI and Recommender System.
 
 [**Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model**](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614)
 
-**Pengyue Jia**, Ling Chen, Dandan Lyu
-
-- **accepted by Cybernetics and Systems.** Advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc) 
+**Pengyue Jia**, Ling Chen, Dandan Lyu, **accepted by Cybernetics and Systems.** Advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc) 
 
 ---
 
 
 
-- [King William Island](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454), **Jia,P.Y**.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang, **Digital Journal of Global Change Data Repository, 2020.**
+[King William Island](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454), **Jia,P.Y**.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang, **Digital Journal of Global Change Data Repository, 2020.**
 
 # 🎖 Honors and Awards
 - *2020.12* **Academic Excellence Award**, Granted by **Zhejiang University**
