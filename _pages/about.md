@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a first-year PhD student at [AML Lab]([AML Lab - Home (aml-cityu.github.io)](https://aml-cityu.github.io/)) CityU HK supervised by Prof. [Xiangyu Zhao]([Xiangyu Zhao's Homepage (zhaoxyai.github.io)](https://zhaoxyai.github.io/)). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from Hong Kong University (HKU) with a master's degree in Computer Science.
+I am now a first-year PhD student at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from Hong Kong University (HKU) with a master's degree in Computer Science.
 
 My research interest includes GeoAI and Recommender System.
 
