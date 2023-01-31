@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Pengyue Jia    贾鹏越"
+  name             : "Pengyue Jia"
+  chinese_name     : "贾鹏越"
   avatar           : "images/self.jpg"
   bio              : 
   location         : "Kowloon, Hong Kong"
