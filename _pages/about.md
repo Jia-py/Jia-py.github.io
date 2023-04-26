@@ -34,17 +34,16 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 ## Conference and Journal Publications
 
-[**Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model**](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614)
-
-**Pengyue Jia**, Ling Chen, Dandan Lyu, **accepted by Cybernetics and Systems.** Advised by Prof. [Ling Chen](https://person.zju.edu.cn/en/lc) 
+Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model, **Pengyue Jia**, Ling Chen, Dandan Lyu, accepted by Cybernetics and Systems. [[Link](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614)]
 
 ---
 
 
 
-[King William Island](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454), **Jia,P.Y**.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang, **Digital Journal of Global Change Data Repository, 2020.**
+King William Island, **Jia,P.Y**.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang, **Digital Journal of Global Change Data Repository, 2020.** [[Link](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454)]
 
 # 🎖 Honors and Awards
+
 - *2020.12* **Academic Excellence Award**, Granted by **Zhejiang University**
 - *2020.06* **Second Place**, LA COVID-19 Computational Challenge, Granted by **RMDS & The Government of LA**
 
