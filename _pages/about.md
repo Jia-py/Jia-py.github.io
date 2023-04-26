@@ -21,11 +21,18 @@ I am now a first-year PhD student at [AML Lab](https://aml-cityu.github.io/) Cit
 
 My research interest includes GeoAI and Recommender System.
 
-
 # 🔥 News
-- *2023.01*: &nbsp;🎉🎉 Start my PhD study at CityU.
 
-# 📝 Publications 
+- 2023.04: &nbsp;Our tutorial on **Joint Modeling in Recommendations** is accepted by **IJCAI'23**
+- *2023.01*: &nbsp;Start my PhD study at CityU.
+
+# 📝 Publications
+
+## Tutorials
+
+Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang, *Joint Modeling in Recommendations: Foundations and Frontiers*, 30th International Joint Conference on Artificial Intelligence **(IJCAI'2023)**
+
+## Conference and Journal Publications
 
 [**Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model**](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614)
 
@@ -47,8 +54,13 @@ My research interest includes GeoAI and Recommender System.
 - *2017.09 - 2021.06*, BSc in Geographic Information Science, Zhejiang University
 
 # 💬 Invited Talks
+
 - *2020.11*, [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule/), Solution on LA COVID-19 Computational Challenge
 
-# 💻 Internships
+# 💻 Internships & Exchange
+
+- *2023.02 - now*, Research Intern, Huawei Noah's Ark Lab
 - *2022.06 - 2022.12*, Ad Recommendation Algorithm Intern, Meituan DaoDian Business Group, Shanghai, China.
 - *2020.10 - 2021.01*, Data Analysis Intern, Zhejiang Lab, Hangzhou, China.
+- 2019.07 - 2019.08, Summer Session Student, Department of Geography & Geographic Information Science, University of Illinois Urbana-Champaign, USA.
+- 2018.07 - 2018.08, Summer Session Student, Shizuoka University, Japan.
