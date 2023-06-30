@@ -56,6 +56,8 @@ King William Island, **Jia,P.Y**.;Wang,J.H.;Zhang,F.;Liu,C.;SHI Ruixiang, **Digi
 
 - *2020.11*, [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule/), Solution on LA COVID-19 Computational Challenge
 
+<span class='anchor' id='-internships'></span>
+
 # 💻 Internships & Exchange
 
 - *2023.02 - now*, Research Intern, Huawei Noah's Ark Lab
