@@ -23,7 +23,7 @@ My research interest includes GeoAI and Recommender System.
 
 # 🔥 News
 
-- 2023.08: &nbsp; I will serve as PC member in **AAAI'24**.
+- 2023.08: &nbsp; I will serve as the PC member in **AAAI'24**.
 - 2023.04: &nbsp;Our tutorial on **Joint Modeling in Recommendations** is accepted by **IJCAI'23**.
 - 2023.01: &nbsp;Start my PhD study at CityU.
 
