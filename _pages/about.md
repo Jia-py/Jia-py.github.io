@@ -23,14 +23,23 @@ My research interest includes GeoAI and Recommender System.
 
 # 🔥 News
 
-- 2023.04: &nbsp;Our tutorial on **Joint Modeling in Recommendations** is accepted by **IJCAI'23**
-- *2023.01*: &nbsp;Start my PhD study at CityU.
+- 2023.08: &nbsp; I will serve as PC member in **AAAI'24**.
+- 2023.04: &nbsp;Our tutorial on **Joint Modeling in Recommendations** is accepted by **IJCAI'23**.
+- 2023.01: &nbsp;Start my PhD study at CityU.
 
 # 📝 Publications
 
 ## Tutorials
 
-Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang, *Joint Modeling in Recommendations: Foundations and Frontiers*, 30th International Joint Conference on Artificial Intelligence **(IJCAI'2023)**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'2023</div><img src='images/IJCAI23_joint_modeling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Joint Modeling in Recommendations: Foundations and Frontiers](https://zhaoxyai.github.io/paper/jointmodeling.pdf)
+
+Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang
+ 
+</div>
+</div>
 
 ## Conference and Journal Publications
 
@@ -75,3 +84,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 ## Conference Reviewer
 
 * 2023: KDD, Recsys, Nips
+
+## Program Committee member
+
+* 2024: AAAI
