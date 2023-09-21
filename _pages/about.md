@@ -37,7 +37,7 @@ My research interest includes GeoAI and Recommender System.
 [Joint Modeling in Recommendations: Foundations and Frontiers](https://zhaoxyai.github.io/paper/jointmodeling.pdf)
 
 Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang
- 
+
 </div>
 </div>
 
@@ -69,7 +69,8 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 💻 Internships & Exchange
 
-- *2023.02 - now*, Research Intern, Huawei Noah's Ark Lab
+- *2023.06 - 2023.10*, Research Intern, Baidu Search Science Team
+- *2023.02 - 2023.05*, Research Intern, Huawei Noah's Ark Lab
 - *2022.06 - 2022.12*, Ad Recommendation Algorithm Intern, Meituan DaoDian Business Group, Shanghai, China.
 - *2020.10 - 2021.01*, Data Analysis Intern, Zhejiang Lab, Hangzhou, China.
 - 2019.07 - 2019.08, Summer Session Student, Department of Geography & Geographic Information Science, University of Illinois Urbana-Champaign, USA.
