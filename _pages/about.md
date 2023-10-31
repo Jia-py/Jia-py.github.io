@@ -43,7 +43,15 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 ## Conference and Journal Publications
 
-**Pengyue Jia**, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin, [*MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion*](https://arxiv.org/abs/2310.19056), **arxiv** preprint. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/MILL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[*MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion*](https://arxiv.org/abs/2310.19056)
+
+**Pengyue Jia**, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin.
+
+</div>
+</div>
 
  **Pengyue Jia**, Ling Chen, Dandan Lyu, [*Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model*](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614), accepted by **Cybernetics and Systems**. 
 
