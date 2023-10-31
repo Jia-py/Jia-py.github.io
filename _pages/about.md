@@ -43,7 +43,9 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 ## Conference and Journal Publications
 
- **Pengyue Jia**, Ling Chen, Dandan Lyu, *Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model*, accepted by **Cybernetics and Systems**. [[Link](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614)]
+**Pengyue Jia**, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin, [*MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion*](https://arxiv.org/abs/2310.19056), **arxiv** preprint. 
+
+ **Pengyue Jia**, Ling Chen, Dandan Lyu, [*Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model*](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614), accepted by **Cybernetics and Systems**. 
 
 ---
 
