@@ -47,7 +47,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'24</div><img src='images/D3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[*D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations*]()
+*D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations*
 
 **Pengyue Jia**, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Huifeng Guo, Ruiming Tang.
 
