@@ -24,7 +24,7 @@ My research interest includes GeoAI and Recommender System.
 # 🔥 News
 
 - 2023.12: &nbsp;One paper accepted by **AAAI'24**.
-- 2023.08: &nbsp; I will serve as the PC member in **AAAI'24**.
+- 2023.08: &nbsp;I will serve as the PC member in **AAAI'24**.
 - 2023.04: &nbsp;Our tutorial on **Joint Modeling in Recommendations** is accepted by **IJCAI'23**.
 - 2023.01: &nbsp;Start my PhD study at CityU.
 
@@ -44,7 +44,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 ## Conference and Journal Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/D3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'24</div><img src='images/D3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [*D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations*]()
