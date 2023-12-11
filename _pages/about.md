@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a first-year PhD student at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from Hong Kong University (HKU) with a master's degree in Computer Science.
+I am now a second-year PhD student at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from Hong Kong University (HKU) with a master's degree in Computer Science.
 
 My research interest includes GeoAI and Recommender System.
 
@@ -64,10 +64,18 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 </div>
 </div>
 
- **Pengyue Jia**, Ling Chen, Dandan Lyu, [*Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model*](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614), accepted by **Cybernetics and Systems**. 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cybernetics and Systems</div><img src='images/FGC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[*Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model*](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614)
+ 
+ **Pengyue Jia**, Ling Chen, Dandan Lyu.
+
+</div>
+</div>
 
 ---
-
 
 
 **Pengyue Jia**, Jihan Wang, Feng Zhang, Chuang Liu, Ruixiang Shi, *King William Island*, **Digital Journal of Global Change Data Repository, 2020.** [[Link](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454)]
