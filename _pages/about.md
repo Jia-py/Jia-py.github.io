@@ -19,7 +19,7 @@ redirect_from:
 
 I am now a second-year PhD student at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from Hong Kong University (HKU) with a master's degree in Computer Science.
 
-My research interest includes GeoAI and Recommender System.
+My research interest includes Recommender System, Information Retrieval, Large Language Models, and GeoAI.
 
 # 🔥 News
 
@@ -69,14 +69,11 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 <div class='paper-box-text' markdown="1">
 
 [*Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model*](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614)
- 
+
  **Pengyue Jia**, Ling Chen, Dandan Lyu.
 
 </div>
 </div>
-
----
-
 
 **Pengyue Jia**, Jihan Wang, Feng Zhang, Chuang Liu, Ruixiang Shi, *King William Island*, **Digital Journal of Global Change Data Repository, 2020.** [[Link](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454)]
 
