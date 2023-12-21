@@ -79,6 +79,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 🎖 Honors and Awards
 
+- *2023.12* **AAAI24 student scholarship**, Granted by AAAI
 - *2020.12* **Academic Excellence Award**, Granted by **Zhejiang University**
 - *2020.06* **Second Place**, LA COVID-19 Computational Challenge, Granted by **RMDS & The Government of LA**
 
@@ -95,7 +96,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 💻 Internships & Exchange
 
-- *2023.06 - 2023.10*, Research Intern, Baidu Search Science Team
+- *2023.06 - now*, Research Intern, Baidu Search Science Team
 - *2023.02 - 2023.05*, Research Intern, Huawei Noah's Ark Lab
 - *2022.06 - 2022.12*, Ad Recommendation Algorithm Intern, Meituan DaoDian Business Group, Shanghai, China.
 - *2020.10 - 2021.01*, Data Analysis Intern, Zhejiang Lab, Hangzhou, China.
