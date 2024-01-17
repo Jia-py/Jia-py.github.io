@@ -24,6 +24,7 @@ My research interest includes Recommender System, Information Retrieval, Large L
 # 🔥 News
 
 - 2023.12: &nbsp;I am honored to receive the AAAI'24 student scholarship.
+- 2023.12: &nbsp;Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
 - 2023.12: &nbsp;One paper accepted by **AAAI'24**.
 - 2023.08: &nbsp;I will serve as the PC member in **AAAI'24**.
 - 2023.04: &nbsp;Our tutorial on **Joint Modeling in Recommendations** is accepted by **IJCAI'23**.
@@ -119,6 +120,10 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 <span class='anchor' id='-services'></span>
 
 # ✏️Services
+
+## Journal Reviewer
+
+* 2024: ACM TKDD
 
 ## Conference Reviewer
 
