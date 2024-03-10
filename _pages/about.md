@@ -23,7 +23,7 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 # 🔥 News
 
-- 2024.03: Passes my qualifying examination!
+- 2024.03:&nbsp;Passed my qualifying examination!
 - 2023.12: &nbsp;I am honored to receive the AAAI'24 student scholarship.
 - 2023.12: &nbsp;Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
 - 2023.12: &nbsp;One paper accepted by **AAAI'24**.
