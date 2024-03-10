@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a second-year PhD student at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from Hong Kong University (HKU) with a master's degree in Computer Science.
+I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from Hong Kong University (HKU) with a master's degree in Computer Science.
 
 My research interest includes Recommender System, Information Retrieval, Large Language Models, and GeoAI.
 
 # 🔥 News
 
+- 2024.03: Passes my qualifying examination!
 - 2023.12: &nbsp;I am honored to receive the AAAI'24 student scholarship.
 - 2023.12: &nbsp;Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
 - 2023.12: &nbsp;One paper accepted by **AAAI'24**.
@@ -96,7 +97,7 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 - *2020.06* **Second Place**, LA COVID-19 Computational Challenge, Granted by **RMDS & The Government of LA**
 
 # 📖 Educations
-- *2023.01 - now*, PhD student in Data Science, AML lab, City University of Hong Kong
+- *2023.01 - now*, PhD candidate in Data Science, AML lab, City University of Hong Kong
 - *2021.09 - 2022.12*, MSc in Computer Science, The University of Hong Kong
 - *2017.09 - 2021.06*, BSc in Geographic Information Science, Zhejiang University
 
@@ -128,7 +129,12 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 ## Conference Reviewer
 
 * 2023: KDD, Recsys, Nips
+* 2024: KDD
 
 ## Program Committee member
+
+* 2024: AAAI
+
+## Volunteer
 
 * 2024: AAAI
