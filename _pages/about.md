@@ -23,7 +23,8 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 # 🔥 News
 
-- 2024.03:&nbsp;Passed my qualifying examination!
+- 2024.03: &nbsp;Our paper MILL got accepted by **NAACL'2024**
+- 2024.03: &nbsp;Passed my qualifying examination!
 - 2023.12: &nbsp;I am honored to receive the AAAI'24 student scholarship.
 - 2023.12: &nbsp;Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
 - 2023.12: &nbsp;One paper accepted by **AAAI'24**.
@@ -67,8 +68,9 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/MILL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL'24</div><img src='images/MILL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [*MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion*](https://arxiv.org/abs/2310.19056)
 
