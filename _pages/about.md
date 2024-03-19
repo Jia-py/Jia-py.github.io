@@ -43,8 +43,6 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang
 
-[**Home Page**](https://jia-py.github.io/ERASE/)   [**Paper**]()   [**Code**](https://github.com/Jia-py/ERASE)   [**Dataset**](https://portland-my.sharepoint.com/:f:/g/personal/pyjia2-c_my_cityu_edu_hk/Eig99ijVRYZHuo6mBrJA5jIBioFU8vwATcRYeLLlYFSUAg)
-
 </div>
 </div>
 
@@ -57,7 +55,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 **Pengyue Jia**, Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang
 
-
+[**Home Page**](https://jia-py.github.io/ERASE/)   [**Paper**]()   [**Code**](https://github.com/Jia-py/ERASE)   [**Dataset**](https://portland-my.sharepoint.com/:f:/g/personal/pyjia2-c_my_cityu_edu_hk/Eig99ijVRYZHuo6mBrJA5jIBioFU8vwATcRYeLLlYFSUAg)
 
 </div>
 </div>
