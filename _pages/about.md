@@ -43,14 +43,27 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang
 
+[**Home Page**](https://jia-py.github.io/ERASE/) | [**Paper**]() | [**Code**](https://github.com/Jia-py/ERASE) | [**Dataset**](https://portland-my.sharepoint.com/:f:/g/personal/pyjia2-c_my_cityu_edu_hk/Eig99ijVRYZHuo6mBrJA5jIBioFU8vwATcRYeLLlYFSUAg)
+
 </div>
 </div>
 
 ## Conference and Journal Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Agent4Ranking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ERASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[*ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems*](https://jia-py.github.io/ERASE/)
+
+**Pengyue Jia**, Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang
+
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Agent4Ranking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 *Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM*
 
 Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin.
