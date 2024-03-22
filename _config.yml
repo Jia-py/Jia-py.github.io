@@ -23,6 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengyue Jia"
   avatar           : "images/self.jpg"
+  chinese_name     : "images/chinese_name.png"
   bio              : 
   location         : "Kowloon, Hong Kong"
   employer         :
