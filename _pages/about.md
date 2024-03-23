@@ -23,6 +23,7 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 # 🔥 News
 
+- 2024.03: &nbsp;I will serve as the PC member in **CIKM'24**.
 - 2024.03: &nbsp;Our paper MILL got accepted by **NAACL'2024** (Main Conference).
 - 2024.03: &nbsp;Passed my qualifying examination!
 - 2023.12: &nbsp;I am honored to receive the AAAI'24 student scholarship.
@@ -134,18 +135,14 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 
 # ✏️Services
 
-## Journal Reviewer
-
-* 2024: ACM TKDD
-
-## Conference Reviewer
+## Reviewer
 
 * 2023: KDD, Recsys, Nips
-* 2024: KDD
+* 2024: KDD, ACM TKDD, CIKM
 
 ## Program Committee member
 
-* 2024: AAAI
+* 2024: AAAI, CIKM
 
 ## Volunteer
 
