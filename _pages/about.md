@@ -83,9 +83,11 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 <div class='paper-box-text' markdown="1">
 
 
-[*MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion*](https://arxiv.org/abs/2310.19056)
+[*MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion*](https://applied-machine-learning-lab.github.io/MILL/)
 
 **Pengyue Jia**, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin.
+
+[**Home Page**](https://applied-machine-learning-lab.github.io/MILL/) \| [**Paper**](https://arxiv.org/abs/2310.19056) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/MILL) \| [**Dataset**](https://ir-datasets.com/index.html)
 
 </div>
 </div>
