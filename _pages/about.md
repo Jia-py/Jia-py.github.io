@@ -23,6 +23,7 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 # 🔥 News
 
+- 2024.05: &nbsp;I am honored to be selected as a virtual volunteer for NAACL'2024.
 - 2024.03: &nbsp;I will serve as the PC member in **CIKM'24**.
 - 2024.03: &nbsp;Our paper MILL got accepted by **NAACL'2024** (Main Conference).
 - 2024.03: &nbsp;Passed my qualifying examination!
@@ -148,4 +149,4 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 
 ## Volunteer
 
-* 2024: AAAI
+* 2024: AAAI, NAACL
