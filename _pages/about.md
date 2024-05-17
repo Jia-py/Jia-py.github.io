@@ -23,6 +23,7 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 # 🔥 News
 
+- 2024.05: &nbsp;Our paper ERASE got accepted by **KDD'24 ADS Track**.
 - 2024.05: &nbsp;I am honored to be selected as a virtual volunteer for NAACL'2024.
 - 2024.03: &nbsp;I will serve as the PC member in **CIKM'24**.
 - 2024.03: &nbsp;Our paper MILL got accepted by **NAACL'2024** (Main Conference).
@@ -50,9 +51,10 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 ## Conference and Journal Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ERASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'24 ADS</div><img src='images/ERASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [*ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems*](https://applied-machine-learning-lab.github.io/ERASE/)
+
 
 **Pengyue Jia**, Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang
 
