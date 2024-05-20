@@ -23,8 +23,7 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 # 🔥 News
 
-<style> .scrollable { max-height: 421px; /* 设置最大高度 */ overflow-y: scroll; /* 设置垂直滚动条 */ } </style>
-- 2024.05: &nbsp;Our paper ERASE got accepted by **KDD'24 ADS Track**.
+<!-- - 2024.05: &nbsp;Our paper ERASE got accepted by **KDD'24 ADS Track**.
 - 2024.05: &nbsp;I am honored to be selected as a virtual volunteer for NAACL'2024.
 - 2024.03: &nbsp;I will serve as the PC member in **CIKM'24**.
 - 2024.03: &nbsp;Our paper MILL got accepted by **NAACL'2024** (Main Conference).
@@ -34,7 +33,33 @@ My research interest includes Recommender System, Information Retrieval, Large L
 - 2023.12: &nbsp;One paper accepted by **AAAI'24**.
 - 2023.08: &nbsp;I will serve as the PC member in **AAAI'24**.
 - 2023.04: &nbsp;Our tutorial on **Joint Modeling in Recommendations** is accepted by **IJCAI'23**.
-- 2023.01: &nbsp;Start my PhD study at CityU.
+- 2023.01: &nbsp;Start my PhD study at CityU. -->
+
+<style>
+  .scrollable {
+    max-height: 421px; /* 设置最大高度 */
+    overflow-y: scroll; /* 设置垂直滚动条 */
+  }
+</style>
+
+<!-- <font color="red></font>
+<a href=""></a> -->
+
+<div class="scrollable">
+  <ul>
+    <li><strong>2024.05</strong>: Our paper ERASE got accepted by <b>KDD'24 ADS Track</b>.</li>
+    <li><strong>2024.05</strong>: I am honored to be selected as a virtual volunteer for NAACL'2024.</li>
+    <li><strong>2024.03</strong>: I will serve as the PC member in <b>CIKM'24</b>.</li>
+    <li><strong>2024.03</strong>: Our paper MILL got accepted by <b>>NAACL'2024</b> (Main Conference)</li>
+    <li><strong>2024.03</strong>: Passed my qualifying examination!</li>
+    <li><strong>2023.12</strong>: I am honored to receive the AAAI'24 student scholarship </li>
+    <li><strong>2023.12</strong>: Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD) </li>
+    <li><strong>2023.12</strong>: One paper accepted by <b>AAAI'24</b> </li>
+    <li><strong>2023.08</strong>: I will serve as the PC member in <b>AAAI'24</b>  </li>
+    <li><strong>2023.04</strong>: Our tutorial on Joint Modeling in Recommendations is accepted by <b>IJCAI'23</b> </li>
+    <li><strong>2023.01</strong>: Start my PhD study at CityU. </li>
+  </ul>
+</div>
 
 # 📝 Publications
 
