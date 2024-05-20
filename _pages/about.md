@@ -23,18 +23,6 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 # 🔥 News
 
-<!-- - 2024.05: &nbsp;Our paper ERASE got accepted by **KDD'24 ADS Track**.
-- 2024.05: &nbsp;I am honored to be selected as a virtual volunteer for NAACL'2024.
-- 2024.03: &nbsp;I will serve as the PC member in **CIKM'24**.
-- 2024.03: &nbsp;Our paper MILL got accepted by **NAACL'2024** (Main Conference).
-- 2024.03: &nbsp;Passed my qualifying examination!
-- 2023.12: &nbsp;I am honored to receive the AAAI'24 student scholarship.
-- 2023.12: &nbsp;Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
-- 2023.12: &nbsp;One paper accepted by **AAAI'24**.
-- 2023.08: &nbsp;I will serve as the PC member in **AAAI'24**.
-- 2023.04: &nbsp;Our tutorial on **Joint Modeling in Recommendations** is accepted by **IJCAI'23**.
-- 2023.01: &nbsp;Start my PhD study at CityU. -->
-
 <style>
   .scrollable {
     max-height: 240px; /* 设置最大高度 */
