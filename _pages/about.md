@@ -37,7 +37,7 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 <style>
   .scrollable {
-    max-height: 421px; /* 设置最大高度 */
+    max-height: 240px; /* 设置最大高度 */
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
 </style>
@@ -50,7 +50,7 @@ My research interest includes Recommender System, Information Retrieval, Large L
     <li><strong>2024.05</strong>: Our paper ERASE got accepted by <b>KDD'24 ADS Track</b>.</li>
     <li><strong>2024.05</strong>: I am honored to be selected as a virtual volunteer for NAACL'2024.</li>
     <li><strong>2024.03</strong>: I will serve as the PC member in <b>CIKM'24</b>.</li>
-    <li><strong>2024.03</strong>: Our paper MILL got accepted by <b>>NAACL'2024</b> (Main Conference)</li>
+    <li><strong>2024.03</strong>: Our paper MILL got accepted by <b>NAACL'2024</b> (Main Conference)</li>
     <li><strong>2024.03</strong>: Passed my qualifying examination!</li>
     <li><strong>2023.12</strong>: I am honored to receive the AAAI'24 student scholarship </li>
     <li><strong>2023.12</strong>: Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD) </li>
