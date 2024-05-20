@@ -23,6 +23,7 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 # 🔥 News
 
+<style> .scrollable { max-height: 421px; /* 设置最大高度 */ overflow-y: scroll; /* 设置垂直滚动条 */ } </style>
 - 2024.05: &nbsp;Our paper ERASE got accepted by **KDD'24 ADS Track**.
 - 2024.05: &nbsp;I am honored to be selected as a virtual volunteer for NAACL'2024.
 - 2024.03: &nbsp;I will serve as the PC member in **CIKM'24**.
