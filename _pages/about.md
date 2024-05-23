@@ -65,6 +65,15 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 ## Conference and Journal Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/G3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models*
+
+**Pengyue Jia**, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'24 ADS</div><img src='images/ERASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [*ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems*](https://applied-machine-learning-lab.github.io/ERASE/)
