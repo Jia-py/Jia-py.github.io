@@ -51,18 +51,6 @@ My research interest includes Recommender System, Information Retrieval, Large L
 
 # 📝 Publications
 
-## Tutorials
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'2023</div><img src='images/IJCAI23_joint_modeling.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Joint Modeling in Recommendations: Foundations and Frontiers](https://zhaoxyai.github.io/paper/jointmodeling.pdf)
-
-Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang
-
-</div>
-</div>
-
 ## Conference and Journal Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/G3.png' alt="sym" width="100%"></div></div>
@@ -130,6 +118,18 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 </div>
 
 **Pengyue Jia**, Jihan Wang, Feng Zhang, Chuang Liu, Ruixiang Shi, *King William Island*, **Digital Journal of Global Change Data Repository, 2020.** [[Link](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454)]
+
+## Tutorials
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'2023</div><img src='images/IJCAI23_joint_modeling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Joint Modeling in Recommendations: Foundations and Frontiers](https://zhaoxyai.github.io/paper/jointmodeling.pdf)
+
+Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
