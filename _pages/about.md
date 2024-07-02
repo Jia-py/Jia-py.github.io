@@ -33,6 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2024.07</strong>: I'm honored to receive the KDD'24 student travel award.</li>
     <li><strong>2024.05</strong>: Our paper ERASE got accepted by <b>KDD'24 ADS Track</b>.</li>
     <li><strong>2024.05</strong>: I am honored to be selected as a virtual volunteer for NAACL'2024.</li>
     <li><strong>2024.03</strong>: I will serve as the PC member in <b>CIKM'24</b>.</li>
@@ -131,6 +132,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 🎖 Honors and Awards
 
+- *2024.07* **KDD24 student travel award**, Granted by KDD
 - *2023.12* **AAAI24 student scholarship**, Granted by AAAI
 - *2020.12* **Academic Excellence Award**, Granted by **Zhejiang University**
 - *2020.06* **Second Place**, LA COVID-19 Computational Challenge, Granted by **RMDS & The Government of LA**
@@ -172,4 +174,4 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 ## Volunteer
 
-* 2024: AAAI, NAACL
+* 2024: AAAI, NAACL, KDD
