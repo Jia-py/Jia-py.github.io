@@ -33,6 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2024.07</strong>: Our team AML_Lab@CityU got 🥉 in 3 tracks, 🥈 in 2 tracks, Overall 2/508 in Amazon KDD CUP 2024!</li>
     <li><strong>2024.07</strong>: I'm honored to receive the KDD'24 student travel award.</li>
     <li><strong>2024.05</strong>: Our paper ERASE got accepted by <b>KDD'24 ADS Track</b>.</li>
     <li><strong>2024.05</strong>: I am honored to be selected as a virtual volunteer for NAACL'2024.</li>
@@ -132,6 +133,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 🎖 Honors and Awards
 
+- *2024.07* **🥉 in 3 tracks, 🥈 in 2 tracks in Amazon KDD CUP 2024**, Overall **2/508** teams, Granted by Amazon [[link](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)]
 - *2024.07* **KDD24 student travel award**, Granted by KDD
 - *2023.12* **AAAI24 student scholarship**, Granted by AAAI
 - *2020.12* **Academic Excellence Award**, Granted by **Zhejiang University**
