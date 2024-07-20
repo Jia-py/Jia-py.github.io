@@ -33,7 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
-    <li><strong>2024.07</strong>: Our team AML_Lab@CityU got second place🥈 in 2 tracks and third place 🥉 in 3 tracks, Overall 2/508 in Amazon KDD CUP 2024! A big shoutout to the awesome teamwork with my teammates Jingtong, Xiaopeng, Zixuan, and Yiyao!</li>
+    <li><strong>2024.07</strong>: Our team AML_Lab@CityU got second place🥈 in 2 tracks and third place 🥉 in 3 tracks, <b>Overall 2/508</b> in <b>Amazon KDD CUP 2024</b>! A big shoutout to the awesome teamwork with my teammates Jingtong, Xiaopeng, Zixuan, and Yiyao!</li>
     <li><strong>2024.07</strong>: I'm honored to receive the KDD'24 student travel award.</li>
     <li><strong>2024.05</strong>: Our paper ERASE got accepted by <b>KDD'24 ADS Track</b>.</li>
     <li><strong>2024.05</strong>: I am honored to be selected as a virtual volunteer for NAACL'2024.</li>
