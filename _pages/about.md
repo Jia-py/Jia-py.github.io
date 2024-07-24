@@ -147,6 +147,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 # 💬 Invited Talks
 
 - *2020.11*, [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule/), Solution on LA COVID-19 Computational Challenge
+- *2024.07*, [DataFun Open Class](https://www.datafuntalk.com/detail/l_669a1a84e4b0d84dab0558ab/4), LLM for Query Expansion in IR
 
 <span class='anchor' id='-internships'></span>
 
