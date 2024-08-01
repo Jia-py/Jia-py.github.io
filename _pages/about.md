@@ -128,7 +128,11 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 </div>
 </div>
 
-**Pengyue Jia**, Jihan Wang, Feng Zhang, Chuang Liu, Ruixiang Shi, *King William Island*, **Digital Journal of Global Change Data Repository, 2020.** [[Link](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454)]
+*King William Island*, **Digital Journal of Global Change Data Repository, 2020.**
+
+**Pengyue Jia**, Jihan Wang, Feng Zhang, Chuang Liu, Ruixiang Shi,
+
+[**Link**](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454)
 
 ## Tutorials
 
