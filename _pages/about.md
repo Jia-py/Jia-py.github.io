@@ -53,6 +53,17 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ## Conference and Journal Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD CUP Workshop</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*Second Place Overall Solution for Amazon KDD Cup 2024*
+
+**Pengyue Jia**, Jingtong Gao, Xiaopeng Li, Zixuan Wang, Yiyao Jin, Xiangyu Zhao
+
+Under Review
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/G3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models*
