@@ -53,13 +53,11 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ## Conference and Journal Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD CUP Workshop</div><img src='images/kddcup2024.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD CUP Workshop Oral</div><img src='images/kddcup2024.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Second Place Overall Solution for Amazon KDD Cup 2024*
 
 **Pengyue Jia**, Jingtong Gao, Xiaopeng Li, Zixuan Wang, Yiyao Jin, Xiangyu Zhao
-
-Under Review
 
 </div>
 </div>
