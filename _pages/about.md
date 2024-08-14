@@ -175,7 +175,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 <span class='anchor' id='-services'></span>
 
-# ✏️Services
+# ✏️ Services
 
 ## Reviewer
 
@@ -189,3 +189,11 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 ## Volunteer
 
 * 2024: AAAI, NAACL, KDD
+
+<span class='anchor' id='-teaching'></span>
+
+# 🏫 Teaching
+
+- **2024.09 - 2024.12**, Teaching Assistant, SDSC 5001 Statistical Machine Learning I.
+- **2024.01 - 2024.06**, Teaching Assistant, SDSC 6001 Statistical Machine Learning II.
+- **2023.09 - 2023.12**, Teaching Assistant, SDSC 5001 Statistical Machine Learning I.
