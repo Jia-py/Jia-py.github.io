@@ -59,6 +59,8 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 **Pengyue Jia**, Jingtong Gao, Xiaopeng Li, Zixuan Wang, Yiyao Jin, Xiangyu Zhao
 
+[**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE)
+
 </div>
 </div>
 
