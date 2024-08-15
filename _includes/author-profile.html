@@ -217,4 +217,21 @@
       {% endif %}
     </div>
   </div>
+  <style>
+    /* 默认情况下，组件应该显示 */
+    #myComponent {
+      display: block;
+    }
+    /* 如果窗口宽度小于 800 像素，则隐藏组件 */
+    @media (max-width: 1280px) {
+      #myComponent {
+        display: none;
+      }
+    }
+  </style>
+  <div id="myComponent">
+    <!-- 这里是你要隐藏的组件内容 -->
+    <br />
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=vR1n3D9-mUc7L7oVs8hqLbDC75D8j5H-7xYnojIWdBE&cmn=35cfe6&cmo=f8665c'></script>
+  </div>
 </div>
