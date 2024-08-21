@@ -33,6 +33,8 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2024.08</strong>: Giving a talk on Multi-domain Recommendation at <b>Huawei Noah's Ark Lab</b>.</li>
+    <li><strong>2024.07</strong>: Giving a talk on LLM for Query Expansion in IR at <b>DataFun</b>.</li>
     <li><strong>2024.07</strong>: Our team AML_Lab@CityU got second place🥈 in 2 tracks, third place 🥉 in 3 tracks, and student award in 2 tracks, <b>Overall 2/508</b>, and is awarded <b>$8750</b> in <b>Amazon KDD CUP 2024</b>! A big shoutout to the awesome teamwork with my teammates Jingtong, Xiaopeng, Zixuan, and Yiyao!</li>
     <li><strong>2024.07</strong>: I'm honored to receive the KDD'24 student travel award.</li>
     <li><strong>2024.05</strong>: Our paper ERASE got accepted by <b>KDD'24 ADS Track</b>.</li>
@@ -159,6 +161,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 💬 Invited Talks
 
+- *2024.08*, Huawei Noah's Ark Lab, Multi-domain Recommendation
 - *2024.07*, [DataFun Open Class](https://www.datafuntalk.com/detail/l_669a1a84e4b0d84dab0558ab/4), LLM for Query Expansion in IR
 - *2020.11*, [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule/), Solution on LA COVID-19 Computational Challenge
 
