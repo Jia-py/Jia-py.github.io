@@ -33,6 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2024.09</strong>: Recieving Outstanding Academic Performance Award (OAPA) from CityUHK.</li>
     <li><strong>2024.08</strong>: Giving a talk on Multi-domain Recommendation at <b>Huawei Noah's Ark Lab</b>.</li>
     <li><strong>2024.07</strong>: Giving a talk on LLM for Query Expansion in IR at <b>DataFun</b>.</li>
     <li><strong>2024.07</strong>: Our team AML_Lab@CityU got second place🥈 in 2 tracks, third place 🥉 in 3 tracks, and student award in 2 tracks, <b>Overall 2/508</b>, and is awarded <b>$8750</b> in <b>Amazon KDD CUP 2024</b>! A big shoutout to the awesome teamwork with my teammates Jingtong, Xiaopeng, Zixuan, and Yiyao!</li>
@@ -148,6 +149,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 🎖 Honors and Awards
 
+- *2024.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
 - *2024.07* **Second place🥈 in 2 tracks, third place🥉 in 3 tracks, student awards in 2 tracks in Amazon KDD CUP 2024**, Overall **2/508** teams, Awarded $8750, Granted by Amazon [[link](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)]
 - *2024.07* **KDD24 student travel award**, Granted by KDD
 - *2023.12* **AAAI24 student scholarship**, Granted by AAAI
