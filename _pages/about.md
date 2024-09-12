@@ -62,7 +62,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 **Pengyue Jia**, Jingtong Gao, Xiaopeng Li, Zixuan Wang, Yiyao Jin, Xiangyu Zhao
 
-[**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page**](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Certificate**](../docs/KDD_Cup_Certificate.pdf)
+[**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page**](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Certificate**](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)
 
 </div>
 </div>
@@ -149,8 +149,8 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 🎖 Honors and Awards
 
-- *2024.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK [[certificate](../docs/KDD_Cup_Certificate.pdf)]
-- *2024.07* **Second place🥈 in 2 tracks, third place🥉 in 3 tracks, student awards in 2 tracks in Amazon KDD CUP 2024**, Overall **2/508** teams, Awarded $8750, Granted by Amazon [[link](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)]
+- *2024.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
+- *2024.07* **Second place🥈 in 2 tracks, third place🥉 in 3 tracks, student awards in 2 tracks in Amazon KDD CUP 2024**, Overall **2/508** teams, Awarded $8750, Granted by Amazon [[link](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)] \| [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)]
 - *2024.07* **KDD24 student travel award**, Granted by KDD
 - *2023.12* **AAAI24 student scholarship**, Granted by AAAI
 - *2020.12* **Academic Excellence Award**, Granted by **Zhejiang University**
@@ -195,7 +195,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 ## Volunteer
 
-* 2024: AAAI, NAACL, KDD [[certificate](../docs/KDD2024_Volunteer_Certificate.pdf)]
+* 2024: AAAI, NAACL, KDD [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD2024_Volunteer_Certificate.pdf)]
 
 <span class='anchor' id='-teaching'></span>
 
