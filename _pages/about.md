@@ -33,7 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
-    <li><strong>2024.09</strong>: Our paper G3 is accepted to <b>Neurips'24</b>!</li>
+    <li><strong>2024.09</strong>: Our paper G3 is accepted to <b>NeurIPS'24</b>!</li>
     <li><strong>2024.09</strong>: Recieving Outstanding Academic Performance Award (OAPA) from CityUHK.</li>
     <li><strong>2024.08</strong>: Giving a talk on Multi-domain Recommendation at <b>Huawei Noah's Ark Lab</b>.</li>
     <li><strong>2024.07</strong>: Giving a talk on LLM for Query Expansion in IR at <b>DataFun</b>.</li>
@@ -68,7 +68,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips'24</div><img src='images/G3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/G3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models*
 
