@@ -189,10 +189,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 * 2023: KDD, Recsys, Nips
 * 2024: KDD, ACM TKDD, CIKM
-
-## Program Committee member
-
-* 2024: AAAI, CIKM
+* 2025: KDD, BigData
 
 ## Volunteer
 
