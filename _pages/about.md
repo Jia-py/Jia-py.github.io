@@ -33,6 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2024.10</strong>: I'm Glad to receive the <b>NeurIPS 2024 Scholar Award</b>!</li>
     <li><strong>2024.09</strong>: Our paper G3 is accepted to <b>NeurIPS'24</b>!</li>
     <li><strong>2024.09</strong>: Recieving Outstanding Academic Performance Award (OAPA) from CityUHK.</li>
     <li><strong>2024.08</strong>: Giving a talk on Multi-domain Recommendation at <b>Huawei Noah's Ark Lab</b>.</li>
@@ -150,6 +151,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 🎖 Honors and Awards
 
+- *2024.10* **NeurIPS 2024 Scholar Award**, Granted by NeurIPS 2024
 - *2024.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
 - *2024.07* **Second place🥈 in 2 tracks, third place🥉 in 3 tracks, student awards in 2 tracks in Amazon KDD CUP 2024**, Overall **2/508** teams, Awarded $8750, Granted by Amazon [[link](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)] \| [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)]
 - *2024.07* **KDD24 student travel award**, Granted by KDD
