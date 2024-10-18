@@ -75,6 +75,8 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 **Pengyue Jia**, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin
 
+[**Paper**](https://arxiv.org/abs/2405.14702) \| [**Code**](https://github.com/Applied-Machine-Learning-Lab/G3) \| [**MP16-Pro Dataset**](https://huggingface.co/datasets/Jia-py/MP16-Pro/tree/main)
+
 </div>
 </div>
 
