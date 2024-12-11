@@ -33,6 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2024.12</strong>: Two tutorials are accepted by <b>WWW'25</b>!</li>
     <li><strong>2024.10</strong>: I'm Glad to receive the <b>NeurIPS 2024 Scholar Award</b>!</li>
     <li><strong>2024.09</strong>: Our paper G3 is accepted to <b>NeurIPS'24</b>!</li>
     <li><strong>2024.09</strong>: Recieving Outstanding Academic Performance Award (OAPA) from CityUHK.</li>
@@ -193,7 +194,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 * 2023: KDD, Recsys, Nips
 * 2024: KDD, ACM TKDD, CIKM
-* 2025: KDD, BigData
+* 2025: KDD, BigData, WWW
 
 ## Volunteer
 
