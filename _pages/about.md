@@ -33,6 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2024.12</strong>: One paper is accepted to <b>AAAI'25</b>!</li>
     <li><strong>2024.12</strong>: Two tutorials are accepted by <b>WWW'25</b>!</li>
     <li><strong>2024.10</strong>: I'm Glad to receive the <b>NeurIPS 2024 Scholar Award</b>!</li>
     <li><strong>2024.09</strong>: Our paper G3 is accepted to <b>NeurIPS'24</b>!</li>
@@ -73,6 +74,15 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 *AltFS: Agency-light Feature Selection with Large Language Models in Deep Recommender Systems*
 
 **Pengyue Jia**, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'25</div><img src='images/SIGMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*SIGMA: Selective Gated Mamba for Sequential Recommendation*
+
+Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, **Pengyue Jia**, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao
 
 </div>
 </div>
