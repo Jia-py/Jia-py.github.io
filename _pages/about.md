@@ -59,6 +59,24 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ## Conference and Journal Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/RADIO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation*
+
+**Pengyue Jia**, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/AltFS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*AltFS: Agency-light Feature Selection with Large Language Models in Deep Recommender Systems*
+
+**Pengyue Jia**, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD CUP Workshop Oral</div><img src='images/kddcup2024.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Second Place Overall Solution for Amazon KDD Cup 2024*
