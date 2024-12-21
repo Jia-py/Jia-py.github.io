@@ -33,6 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2024.12</strong>: Our paper TAPO is accepted to <b>ICASSP'25</b>!</li>
     <li><strong>2024.12</strong>: One paper is accepted to <b>AAAI'25</b>!</li>
     <li><strong>2024.12</strong>: Two tutorials are accepted by <b>WWW'25</b>!</li>
     <li><strong>2024.10</strong>: I'm Glad to receive the <b>NeurIPS 2024 Scholar Award</b>!</li>
@@ -60,11 +61,13 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ## Conference and Journal Publications
 
+### First or Co-First Work
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/RADIO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation*
 
-**Pengyue Jia**, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
+**Pengyue Jia**\*, Derong Xu\*, Xiaopeng Li\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
 
 </div>
 </div>
@@ -78,20 +81,11 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'25</div><img src='images/SIGMA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*SIGMA: Selective Gated Mamba for Sequential Recommendation*
-
-Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, **Pengyue Jia**, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD CUP Workshop Oral</div><img src='images/kddcup2024.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Second Place Overall Solution for Amazon KDD Cup 2024*
 
-**Pengyue Jia**, Jingtong Gao, Xiaopeng Li, Zixuan Wang, Yiyao Jin, Xiangyu Zhao
+**Pengyue Jia**\*, Jingtong Gao\*, Xiaopeng Li\*, Zixuan Wang\*, Yiyao Jin\*, Xiangyu Zhao
 
 [**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page**](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Certificate**](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)
 
@@ -114,18 +108,9 @@ Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, **Pengyue Jia**, Maolin Wang, Zi
 [*ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems*](https://applied-machine-learning-lab.github.io/ERASE/)
 
 
-**Pengyue Jia**, Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang
+**Pengyue Jia**\*, Yejing Wang\*, Zhaocheng Du\*, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang
 
 [**Home Page**](https://applied-machine-learning-lab.github.io/ERASE/) \| [**Paper**](https://arxiv.org/abs/2403.12660) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/ERASE) \| [**Dataset**](https://portland-my.sharepoint.com/:f:/g/personal/pyjia2-c_my_cityu_edu_hk/Eig99ijVRYZHuo6mBrJA5jIBioFU8vwATcRYeLLlYFSUAg)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Agent4Ranking.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM*
-
-Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin.
 
 </div>
 </div>
@@ -164,9 +149,25 @@ Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, 
 </div>
 </div>
 
-*King William Island*, **Digital Journal of Global Change Data Repository, 2020.**
+### Other Work
 
-**Pengyue Jia**, Jihan Wang, Feng Zhang, Chuang Liu, Ruixiang Shi. [**Link**](http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1454)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'25</div><img src='images/SIGMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*SIGMA: Selective Gated Mamba for Sequential Recommendation*
+
+Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, **Pengyue Jia**, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Agent4Ranking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM*
+
+Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin.
+
+</div>
+</div>
 
 ## Tutorials
 
@@ -232,6 +233,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 🏫 Teaching
 
+- **2025.01 - 2025.06**, Teaching Assistant, SDSC 6001 Statistical Machine Learning II.
 - **2024.09 - 2024.12**, Teaching Assistant, SDSC 5001 Statistical Machine Learning I.
 - **2024.01 - 2024.06**, Teaching Assistant, SDSC 6001 Statistical Machine Learning II.
 - **2023.09 - 2023.12**, Teaching Assistant, SDSC 5001 Statistical Machine Learning I.
