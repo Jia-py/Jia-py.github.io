@@ -39,7 +39,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
     <li><strong>2024.10</strong>: I'm Glad to receive the <b>NeurIPS 2024 Scholar Award</b>!</li>
     <li><strong>2024.09</strong>: Our paper G3 is accepted to <b>NeurIPS'24</b>!</li>
     <li><strong>2024.09</strong>: Recieving Outstanding Academic Performance Award (OAPA) from CityUHK.</li>
-    <li><strong>2024.08</strong>: Giving a talk on Multi-domain Recommendation at <b>Huawei Noah's Ark Lab</b>.</li>
+    <!-- <li><strong>2024.08</strong>: Giving a talk on Multi-domain Recommendation at <b>Huawei Noah's Ark Lab</b>.</li> -->
     <li><strong>2024.07</strong>: Giving a talk on LLM for Query Expansion in IR at <b>DataFun</b>.</li>
     <li><strong>2024.07</strong>: Our team AML_Lab@CityU got second place🥈 in 2 tracks, third place 🥉 in 3 tracks, and student award in 2 tracks, <b>Overall 2/508</b>, and is awarded <b>$8750</b> in <b>Amazon KDD CUP 2024</b>! A big shoutout to the awesome teamwork with my teammates Jingtong, Xiaopeng, Zixuan, and Yiyao!</li>
     <li><strong>2024.07</strong>: I'm honored to receive the KDD'24 student travel award.</li>
@@ -198,7 +198,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 💬 Invited Talks
 
-- *2024.08*, Huawei Noah's Ark Lab, Multi-domain Recommendation
+<!-- - *2024.08*, Huawei Noah's Ark Lab, Multi-domain Recommendation -->
 - *2024.07*, [DataFun Open Class](https://www.datafuntalk.com/detail/l_669a1a84e4b0d84dab0558ab/4), LLM for Query Expansion in IR
 - *2020.11*, [IM Data 2020](https://www.rmdslab.com/im-data-2020-schedule/), Solution on LA COVID-19 Computational Challenge
 
@@ -207,7 +207,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 # 💻 Internships & Exchange
 
 - *2023.06 - now*, Research Intern, Baidu Search Science Team
-- *2023.02 - now*, Research Intern, Huawei Noah's Ark Lab
+<!-- - *2023.02 - now*, Research Intern, Huawei Noah's Ark Lab -->
 - *2022.06 - 2022.12*, Ad Recommendation Algorithm Intern, Meituan DaoDian Business Group, Shanghai, China.
 - *2020.10 - 2021.01*, Data Analysis Intern, Zhejiang Lab, Hangzhou, China.
 - 2019.07 - 2019.08, Summer Session Student, Department of Geography & Geographic Information Science, University of Illinois Urbana-Champaign, USA.
