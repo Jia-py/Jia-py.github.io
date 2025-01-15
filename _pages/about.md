@@ -151,21 +151,18 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ### Other Work
 
-<div class='paper-box'>
-<!-- <div class='paper-box-image'><div><div class="badge">AAAI'25</div><img src='images/SIGMA.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box-text' markdown="1">
-*SIGMA: Selective Gated Mamba for Sequential Recommendation*, Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, **Pengyue Jia**, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao, AAAI'25.
-*Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM* - Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin, Arxiv.
+<style>
+  .scrollable-work {
+    max-height: 360px; /* 设置最大高度 */
+    overflow-y: scroll; /* 设置垂直滚动条 */
+  }
+</style>
 
-</div>
-</div>
-
-<div class='paper-box'>
-<!-- <div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Agent4Ranking.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box-text' markdown="1">
-*Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM* - Xiaopeng Li, Lixin Su, **Pengyue Jia**, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin, Arxiv.
-
-</div>
+<div class="scrollable-work">
+  <ul>
+    <li><strong>2.</strong> TAPO: TASK-REFERENCED ADAPTATION FOR PROMPT OPTIMIZATION, Wenxin Luo*, Weirui Wang*, Xiaopeng Li*, Weibo Zhou, <b>Pengyue Jia</b>, Xiangyu Zhao, <b>ICASSP'25</b>.</li>
+    <li><strong>1.</strong> SIGMA: Selective Gated Mamba for Sequential Recommendation, Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, <b>Pengyue Jia</b>, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao, <b>AAAI'25</b>.</li>
+  </ul>
 </div>
 
 ## Tutorials
