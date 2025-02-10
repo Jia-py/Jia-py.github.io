@@ -33,6 +33,7 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.02</strong>: Our Workshop on AgentIR is accepted to <b>SIGIR'25</b>! We welcome submissions and appreciate your attention.</li>
     <li><strong>2024.12</strong>: Our paper TAPO is accepted to <b>ICASSP'25</b>!</li>
     <li><strong>2024.12</strong>: One paper is accepted to <b>AAAI'25</b>!</li>
     <li><strong>2024.12</strong>: Two tutorials are accepted by <b>WWW'25</b>!</li>
