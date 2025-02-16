@@ -33,10 +33,10 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.02</strong>: Our Workshop on AgentIR is accepted to <b>SIGIR'25</b>! We welcome submissions and appreciate your attention.</li>
+    <li><strong>2025.02</strong>: Our Workshop on <a href="https://applied-machine-learning-lab.github.io/2nd-AgentIR-Workshop-SIGIR-2025/about">AgentIR</a> is accepted to <b>SIGIR'25</b>! We welcome submissions and appreciate your attention.</li>
     <li><strong>2024.12</strong>: Our paper TAPO is accepted to <b>ICASSP'25</b>!</li>
     <li><strong>2024.12</strong>: One paper is accepted to <b>AAAI'25</b>!</li>
-    <li><strong>2024.12</strong>: Two tutorials are accepted by <b>WWW'25</b>!</li>
+    <li><strong>2024.12</strong>: Two tutorials are accepted by <b>WWW'25</b>! See <a href="https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/">Joint Modeling in Deep Recommender Systems</a> and Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era</li>
     <li><strong>2024.10</strong>: I'm Glad to receive the <b>NeurIPS 2024 Scholar Award</b>!</li>
     <li><strong>2024.09</strong>: Our paper G3 is accepted to <b>NeurIPS'24</b>!</li>
     <li><strong>2024.09</strong>: Recieving Outstanding Academic Performance Award (OAPA) from CityUHK.</li>
@@ -166,7 +166,32 @@ I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
   </ul>
 </div>
 
-## Tutorials
+## Tutorials and Workshops
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR'2025</div><img src='images/sigir2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*AgentIR: 2nd Workshop on Agent-based Information Retrieval*
+
+**Pengyue Jia**, Qingpeng Cai, Xiangyu Zhao, Ling Pan, Xin Xin, Jin Huang, Weinan Zhang, Li Zhao, Dawei Yin, Grace Hui Yang
+
+[**Home Page**](https://applied-machine-learning-lab.github.io/2nd-AgentIR-Workshop-SIGIR-2025/about)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW'2025</div><img src='images/www2025_tutorial.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Joint Modeling in Deep Recommender Systems*
+
+**Pengyue Jia**, Jingtong Gao, Yejing Wang, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
+
+[**Home Page**](https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'2023</div><img src='images/IJCAI23_joint_modeling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
