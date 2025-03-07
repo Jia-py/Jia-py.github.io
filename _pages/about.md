@@ -193,6 +193,16 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW'2025</div><img src='images/www2025_sydney.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era*
+
+Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, Xiao Han, **Pengyue Jia**, Bin Yang and Christian S. Jensen
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'2023</div><img src='images/IJCAI23_joint_modeling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
