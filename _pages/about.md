@@ -33,6 +33,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.03</strong>: I arrive in Madison and start my visiting life!</li>
     <li><strong>2025.02</strong>: Our Workshop on <a href="https://applied-machine-learning-lab.github.io/2nd-AgentIR-Workshop-SIGIR-2025/about">AgentIR</a> is accepted to <b>SIGIR'25</b>! We welcome submissions and appreciate your attention.</li>
     <li><strong>2024.12</strong>: Our paper TAPO is accepted to <b>ICASSP'25</b>!</li>
     <li><strong>2024.12</strong>: One paper is accepted to <b>AAAI'25</b>!</li>
