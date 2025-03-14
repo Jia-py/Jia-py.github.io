@@ -225,6 +225,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 - *2020.06* **Second Place🥈 in LA COVID-19 Computational Challenge**, Granted by **RMDS & The Government of LA**
 
 # 📖 Educations
+- *2025.03 - now*, Visiting PhD Student in Computer Science, University of Wisconsin-Madison
 - *2023.01 - now*, PhD candidate in Data Science, AML lab, City University of Hong Kong
 - *2021.09 - 2022.12*, MSc in Computer Science, The University of Hong Kong
 - *2017.09 - 2021.06*, BSc in Geographic Information Science, Zhejiang University
