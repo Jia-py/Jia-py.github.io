@@ -33,6 +33,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.04</strong>: One paper got accepted to SIGIR'25.</li>
     <li><strong>2025.03</strong>: I arrive in Madison and start my visiting life!</li>
     <li><strong>2025.02</strong>: Our Workshop on <a href="https://applied-machine-learning-lab.github.io/2nd-AgentIR-Workshop-SIGIR-2025/about">AgentIR</a> is accepted to <b>SIGIR'25</b>! We welcome submissions and appreciate your attention.</li>
     <li><strong>2024.12</strong>: Our paper TAPO is accepted to <b>ICASSP'25</b>!</li>
@@ -162,6 +163,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable-work">
   <ul>
+    <li><strong>2.</strong> Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models, Yuhao Wang, Junwei Pan, Xiangyu Zhao, <b>Pengyue Jia</b>, Wanyu Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, <b>SIGIR'25</b>.</li>
     <li><strong>2.</strong> TAPO: TASK-REFERENCED ADAPTATION FOR PROMPT OPTIMIZATION, Wenxin Luo*, Weirui Wang*, Xiaopeng Li*, Weibo Zhou, <b>Pengyue Jia</b>, Xiangyu Zhao, <b>ICASSP'25</b>.</li>
     <li><strong>1.</strong> SIGMA: Selective Gated Mamba for Sequential Recommendation, Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, <b>Pengyue Jia</b>, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao, <b>AAAI'25</b>.</li>
   </ul>
