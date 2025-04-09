@@ -257,9 +257,9 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 ## Reviewer
 
-* 2023: KDD, Recsys, Nips
+* 2023: KDD, Recsys, NeurIPS
 * 2024: KDD, ACM TKDD, CIKM
-* 2025: KDD, BigData, WWW
+* 2025: KDD, BigData, WWW, ARR
 
 ## Volunteer
 
