@@ -66,7 +66,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 ### First or Co-First Work
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/PRAG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/PRAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *A Survey of Personalization: From RAG to Agent*
 
