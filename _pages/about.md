@@ -66,6 +66,15 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 ### First or Co-First Work
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/PRAG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*A Survey of Personalization: From RAG to Agent*
+
+Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/RADIO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation*
