@@ -200,7 +200,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 **Pengyue Jia**, Jingtong Gao, Yejing Wang, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
 
-[**Home Page**](https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/)
+[**Home Page**](https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/) \| [**Slides**](https://github.com/Applied-Machine-Learning-Lab/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/blob/main/pdf/jointmodeling-www2025.pdf)
 
 </div>
 </div>
