@@ -146,7 +146,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 **Pengyue Jia**, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin.
 
-[**Home Page**](https://applied-machine-learning-lab.github.io/MILL/) \| [**Paper**](https://arxiv.org/abs/2310.19056) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/MILL) \| [**Dataset**](https://ir-datasets.com/index.html)
+[**Home Page**](https://applied-machine-learning-lab.github.io/MILL/) \| [**Paper**](https://arxiv.org/abs/2310.19056) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/MILL) ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/MILL) \| [**Dataset**](https://ir-datasets.com/index.html)
 
 </div>
 </div>
