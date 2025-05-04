@@ -72,6 +72,8 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
 
+[**Paper**](https://arxiv.org/abs/2504.10147) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)
+
 </div>
 </div>
 
