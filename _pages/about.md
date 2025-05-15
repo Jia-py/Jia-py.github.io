@@ -189,7 +189,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 <div class="scrollable-work">
   <ul>
-    <li><strong>5.</strong> Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation, Yi Wen, Yue Liu, Derong Xu, Huishi Luo, <b>Pengyue Jia</b>, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao
+    <li><strong>5.</strong> Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation, Yi Wen, Yue Liu, Derong Xu, Huishi Luo, <b>Pengyue Jia</b>, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao, <b>KDD'25</b>.</li>
     <li><strong>4.</strong> Large Language Model Enhanced Recommender Systems: A Survey, Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, <b>Pengyue Jia</b>, Chong Chen, Wei Huang, Feng Tian, <b>KDD'25</b>.</li>
     <li><strong>3.</strong> Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models, Yuhao Wang, Junwei Pan, Xiangyu Zhao, <b>Pengyue Jia</b>, Wanyu Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, <b>SIGIR'25</b>.</li>
     <li><strong>2.</strong> TAPO: TASK-REFERENCED ADAPTATION FOR PROMPT OPTIMIZATION, Wenxin Luo*, Weirui Wang*, Xiaopeng Li*, Weibo Zhou, <b>Pengyue Jia</b>, Xiangyu Zhao, <b>ICASSP'25</b>.</li>
