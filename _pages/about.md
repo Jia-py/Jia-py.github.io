@@ -34,7 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.05</strong>: Our paper RADIO is accepted to <b>ACL'25 Findings</b>.</li>
+    <li><strong>2025.05</strong>: Our paper RADIO and SEED are accepted to <b>ACL'25</b>.</li>
     <li><strong>2025.05</strong>: Two papers are accepted to <b>KDD'25</b>!</li>
     <li><strong>2025.05</strong>: Our tutorial and survey for <b>LLM Enhanced Recommender System</b> got accepted to <b>KDD'2025</b>!</li>
     <li><strong>2025.04</strong>: One paper got accepted to SIGIR'25.</li>
@@ -193,6 +193,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 <div class="scrollable-work">
   <ul>
+    <li><strong>6.</strong> Stepwise Reasoning Error Disruption Attack of LLMs, Jingyu Peng, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, <b>Pengyue Jia</b>, Qidong Liu, Ruocheng Guo, Qi Liu, <b>ACL'25 Main</b>.</li>
     <li><strong>5.</strong> Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation, Yi Wen, Yue Liu, Derong Xu, Huishi Luo, <b>Pengyue Jia</b>, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao, <b>KDD'25</b>.</li>
     <li><strong>4.</strong> Large Language Model Enhanced Recommender Systems: A Survey, Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, <b>Pengyue Jia</b>, Chong Chen, Wei Huang, Feng Tian, <b>KDD'25</b>.</li>
     <li><strong>3.</strong> Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models, Yuhao Wang, Junwei Pan, Xiangyu Zhao, <b>Pengyue Jia</b>, Wanyu Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, <b>SIGIR'25</b>.</li>
