@@ -34,6 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.05</strong>: Two papers are accepted to <b>KDD'25</b>!</li>
     <li><strong>2025.05</strong>: Our tutorial and survey for <b>LLM Enhanced Recommender System</b> got accepted to <b>KDD'2025</b>!</li>
     <li><strong>2025.04</strong>: One paper got accepted to SIGIR'25.</li>
     <li><strong>2025.03</strong>: I arrive in Madison and start my visiting life!</li>
@@ -67,6 +68,17 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 ## Conference and Journal Publications
 
 ### First or Co-First Work
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'25</div><img src='images/LSRP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration*
+
+Yingyi Zhang\*, **Pengyue Jia**\*, Xianneng Li, Derong Xu, Maolin Wang, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao
+
+[**Paper**](https://arxiv.org/abs/2505.05031#) \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/PRAG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -177,7 +189,8 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 <div class="scrollable-work">
   <ul>
-    <li><strong>4.</strong> Large Language Model Enhanced Recommender Systems: A Survey, Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, Pengyue Jia, Chong Chen, Wei Huang, Feng Tian, <b>KDD'25</b>.</li>
+    <li><strong>5.</strong> Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation, Yi Wen, Yue Liu, Derong Xu, Huishi Luo, <b>Pengyue Jia</b>, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao
+    <li><strong>4.</strong> Large Language Model Enhanced Recommender Systems: A Survey, Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, <b>Pengyue Jia</b>, Chong Chen, Wei Huang, Feng Tian, <b>KDD'25</b>.</li>
     <li><strong>3.</strong> Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models, Yuhao Wang, Junwei Pan, Xiangyu Zhao, <b>Pengyue Jia</b>, Wanyu Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, <b>SIGIR'25</b>.</li>
     <li><strong>2.</strong> TAPO: TASK-REFERENCED ADAPTATION FOR PROMPT OPTIMIZATION, Wenxin Luo*, Weirui Wang*, Xiaopeng Li*, Weibo Zhou, <b>Pengyue Jia</b>, Xiangyu Zhao, <b>ICASSP'25</b>.</li>
     <li><strong>1.</strong> SIGMA: Selective Gated Mamba for Sequential Recommendation, Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, <b>Pengyue Jia</b>, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao, <b>AAAI'25</b>.</li>
