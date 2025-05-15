@@ -34,6 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.05</strong>: Our paper RADIO is accepted to <b>ACL'25 Findings</b>.</li>
     <li><strong>2025.05</strong>: Two papers are accepted to <b>KDD'25</b>!</li>
     <li><strong>2025.05</strong>: Our tutorial and survey for <b>LLM Enhanced Recommender System</b> got accepted to <b>KDD'2025</b>!</li>
     <li><strong>2025.04</strong>: One paper got accepted to SIGIR'25.</li>
@@ -91,11 +92,13 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/RADIO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'25 Findings</div><img src='images/RADIO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation*
 
 **Pengyue Jia**\*, Derong Xu\*, Xiaopeng Li\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
+
+[**Paper**](https://arxiv.org/abs/2412.08519) \| [**Code(TBA)**](https://github.com/Applied-Machine-Learning-Lab/) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/)
 
 </div>
 </div>
