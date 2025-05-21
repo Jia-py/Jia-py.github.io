@@ -70,6 +70,18 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 ### First or Co-First Work
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GeoRanker.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization*
+
+**Pengyue Jia**, Seongheon Park, Song Gao, Xiangyu Zhao, Yixuan Li
+
+[**Paper**](https://arxiv.org/abs/2505.13731) 
+<!-- \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP) -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'25</div><img src='images/LSRP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration*
