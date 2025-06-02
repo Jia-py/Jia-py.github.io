@@ -8,14 +8,11 @@
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.chinese_name }}">
-  </div>
-
   <!-- <img src="{{ author.chinese_name}}"> -->
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author_name">{{ author.chinese_name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
