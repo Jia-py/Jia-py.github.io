@@ -34,6 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.06</strong>: <a href="https://huggingface.co/spaces/garena2/GeoArena">🌍GeoArena</a> has been launched! Your feedback matters!</li>
     <li><strong>2025.05</strong>: Our paper RADIO and SEED are accepted to <b>ACL'25</b>.</li>
     <li><strong>2025.05</strong>: Two papers are accepted to <b>KDD'25</b>!</li>
     <li><strong>2025.05</strong>: Our tutorial and survey for <b>LLM Enhanced Recommender System</b> got accepted to <b>KDD'2025</b>!</li>
