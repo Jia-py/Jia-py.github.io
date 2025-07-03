@@ -231,6 +231,18 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 ## Tutorials and Workshops
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'2025</div><img src='images/KDD2025-Tutorial.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Large Language Model Enhanced Recommender Systems-Methods, Applications and Trends*
+
+Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, **Pengyue Jia**, Chong Chen, Wei Huang, Feng Tian
+
+[**Home Page**](https://applied-machine-learning-lab.github.io/KDD25-Tutorial-LLM-Enhanced-RecSys/about) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-LLM-Enhanced-Recommender-Systems)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR'2025</div><img src='images/sigir2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
