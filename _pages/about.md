@@ -34,6 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.07</strong>: Our paper Agent4Ranking has been accepted to TOIS, congrats to Xiaopeng!</li>
     <li><strong>2025.06</strong>: <a href="https://huggingface.co/spaces/garena2/GeoArena">🌍GeoArena</a> has been launched! Your feedback matters!</li>
     <li><strong>2025.05</strong>: Our paper RADIO and SEED are accepted to <b>ACL'25</b>.</li>
     <li><strong>2025.05</strong>: Two papers are accepted to <b>KDD'25</b>!</li>
@@ -218,6 +219,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 <div class="scrollable-work">
   <ul>
+    <li><strong>7.</strong> Agent4ranking: Semantic robust ranking via personalized query rewriting using multi-agent llm, Xiaopeng Li, Lixin Su, <b>Pengyue Jia</b>, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin, <b>TOIS</b>.</li>
     <li><strong>6.</strong> Stepwise Reasoning Error Disruption Attack of LLMs, Jingyu Peng, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, <b>Pengyue Jia</b>, Qidong Liu, Ruocheng Guo, Qi Liu, <b>ACL'25 Main</b>.</li>
     <li><strong>5.</strong> Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation, Yi Wen, Yue Liu, Derong Xu, Huishi Luo, <b>Pengyue Jia</b>, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao, <b>KDD'25</b>.</li>
     <li><strong>4.</strong> Large Language Model Enhanced Recommender Systems: A Survey, Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, <b>Pengyue Jia</b>, Chong Chen, Wei Huang, Feng Tian, <b>KDD'25</b>.</li>
@@ -317,12 +319,12 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 * 2023: KDD, Recsys, NeurIPS
 * 2024: KDD, ACM TKDD, CIKM
-* 2025: KDD, BigData, WWW, ARR, NeurIPS
+* 2025: KDD, BigData, WWW, ARR, NeurIPS, ACM TKDD
 
 ## Volunteer
 
 * 2024: AAAI, NAACL, KDD [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD2024_Volunteer_Certificate.pdf)]
-* 2025: WWW
+* 2025: WWW, ACL
 
 <span class='anchor' id='-teaching'></span>
 
