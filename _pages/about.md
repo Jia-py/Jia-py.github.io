@@ -34,7 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.08</strong>: Our paper SELF and Scenario-Wise Rec Benchmark have been accepted to CIKM'25!</li>
+    <li><strong>2025.08</strong>: Our paper SELF, Scenario-Wise Rec Benchmark, and UserIP-Tuning have been accepted to CIKM'25!</li>
     <li><strong>2025.07</strong>: Our paper Agent4Ranking has been accepted to TOIS, congrats to Xiaopeng!</li>
     <li><strong>2025.06</strong>: <a href="https://huggingface.co/spaces/garena2/GeoArena">🌍GeoArena</a> has been launched! Your feedback matters!</li>
     <li><strong>2025.05</strong>: Our paper RADIO and SEED are accepted to <b>ACL'25</b>.</li>
@@ -220,6 +220,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 <div class="scrollable-work">
   <ul>
+    <li><strong>9.</strong> Prompt Tuning as User Inherent Profile Inference Machine, Yusheng Lu, Zhaocheng Du, Xiangyang Li, <b>Pengyue Jia</b>, Yejing Wang, Weiwen Liu, Yichao Wang, Huifeng Guo, Ruiming Tang, Zhenhua Dong, Yongrui Duan and Xiangyu Zhao, <b>CIKM'25 (Applied Research Track)</b>.</li>
     <li><strong>8.</strong> Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark, Xiaopeng Li, Jingtong Gao, <b>Pengyue Jia</b>, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang, <b>CIKM'25</b>.</li>
     <li><strong>7.</strong> Agent4ranking: Semantic robust ranking via personalized query rewriting using multi-agent llm, Xiaopeng Li, Lixin Su, <b>Pengyue Jia</b>, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin, <b>TOIS</b>.</li>
     <li><strong>6.</strong> Stepwise Reasoning Error Disruption Attack of LLMs, Jingyu Peng, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, <b>Pengyue Jia</b>, Qidong Liu, Ruocheng Guo, Qi Liu, <b>ACL'25 Main</b>.</li>
