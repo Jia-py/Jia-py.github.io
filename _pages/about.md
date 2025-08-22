@@ -131,11 +131,11 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'25</div><img src='images/AltFS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'25</div><img src='images/SELF_cikm.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems*
 
-**Pengyue Jia**, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang
+**Pengyue Jia**, Zhaocheng Du, Yichao Wang, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
 
 </div>
 </div>
