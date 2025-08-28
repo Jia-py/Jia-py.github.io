@@ -34,6 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.08</strong>: I'm honored to received the Outstanding Academic Performance Award (OAPA) granted by CityU HK.</li>
     <li><strong>2025.08</strong>: Our paper SELF, Scenario-Wise Rec Benchmark, and UserIP-Tuning have been accepted to CIKM'25!</li>
     <li><strong>2025.07</strong>: Our paper Agent4Ranking has been accepted to TOIS, congrats to Xiaopeng!</li>
     <li><strong>2025.06</strong>: <a href="https://huggingface.co/spaces/garena2/GeoArena">🌍GeoArena</a> has been launched! Your feedback matters!</li>
@@ -293,6 +294,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 🎖 Honors and Awards
 
+- *2025.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
 - *2024.10* **NeurIPS 2024 Scholar Award**, Granted by NeurIPS 2024
 - *2024.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
 - *2024.07* **Second place🥈 in 2 tracks, third place🥉 in 3 tracks, student awards in 2 tracks in Amazon KDD CUP 2024**, Overall **2/508** teams, Awarded $8750, Granted by Amazon [[link](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)] \| [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)]
