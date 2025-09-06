@@ -74,6 +74,18 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 ### First or Co-First Work
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/geoarena.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization*
+
+**Pengyue Jia**, Yingyi Zhang, Xiangyu Zhao, Yixuan Li
+
+[**Paper**](https://arxiv.org/abs/2509.04334) 
+<!-- \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP) -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Align-GRAG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation*
