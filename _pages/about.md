@@ -78,7 +78,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 <div class='paper-box-text' markdown="1">
 *GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization*
 
-**Pengyue Jia**, Yingyi Zhang, Xiangyu Zhao, Yixuan Li
+**Pengyue Jia**\*, Yingyi Zhang\*, Xiangyu Zhao, Yixuan Li
 
 [**Paper**](https://arxiv.org/abs/2509.04334) 
 <!-- \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP) -->
