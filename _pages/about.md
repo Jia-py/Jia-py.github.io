@@ -34,7 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.09</strong>: Our paper GeoRanker and ReasonRAG are accepted to <b>NeurIPS'25</b>!
+    <li><strong>2025.09</strong>: Our paper GeoRanker and ReasonRAG are accepted to <b>NeurIPS'25</b>!</li>
     <li><strong>2025.08</strong>: I'm honored to received the Outstanding Academic Performance Award (OAPA) granted by CityU HK.</li>
     <li><strong>2025.08</strong>: Our paper SELF, Scenario-Wise Rec Benchmark, and UserIP-Tuning have been accepted to CIKM'25!</li>
     <li><strong>2025.07</strong>: Our paper Agent4Ranking has been accepted to TOIS, congrats to Xiaopeng!</li>
