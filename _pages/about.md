@@ -34,6 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.09</strong>: Our paper GeoRanker and ReasonRAG are accepted to <b>NeurIPS'25</b>!
     <li><strong>2025.08</strong>: I'm honored to received the Outstanding Academic Performance Award (OAPA) granted by CityU HK.</li>
     <li><strong>2025.08</strong>: Our paper SELF, Scenario-Wise Rec Benchmark, and UserIP-Tuning have been accepted to CIKM'25!</li>
     <li><strong>2025.07</strong>: Our paper Agent4Ranking has been accepted to TOIS, congrats to Xiaopeng!</li>
@@ -98,7 +99,7 @@ Derong Xu\*, **Pengyue Jia**\*, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GeoRanker.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'25</div><img src='images/GeoRanker.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization*
 
@@ -233,6 +234,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 <div class="scrollable-work">
   <ul>
+    <li><strong>10.</strong> Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning, wenlin zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, <b>Pengyue Jia</b>, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>NeurIPS'25</b>.</li>
     <li><strong>9.</strong> Prompt Tuning as User Inherent Profile Inference Machine, Yusheng Lu, Zhaocheng Du, Xiangyang Li, <b>Pengyue Jia</b>, Yejing Wang, Weiwen Liu, Yichao Wang, Huifeng Guo, Ruiming Tang, Zhenhua Dong, Yongrui Duan and Xiangyu Zhao, <b>CIKM'25 (Applied Research Track)</b>.</li>
     <li><strong>8.</strong> Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark, Xiaopeng Li, Jingtong Gao, <b>Pengyue Jia</b>, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang, <b>CIKM'25</b>.</li>
     <li><strong>7.</strong> Agent4ranking: Semantic robust ranking via personalized query rewriting using multi-agent llm, Xiaopeng Li, Lixin Su, <b>Pengyue Jia</b>, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin, <b>TOIS</b>.</li>
