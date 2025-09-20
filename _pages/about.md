@@ -105,7 +105,7 @@ Derong Xu\*, **Pengyue Jia**\*, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong L
 
 **Pengyue Jia**, Seongheon Park, Song Gao, Xiangyu Zhao, Yixuan Li
 
-[**Paper**](https://arxiv.org/abs/2505.13731) 
+[**Paper**](https://arxiv.org/abs/2505.13731) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoRanker) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoRanker)
 <!-- \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP) -->
 
 </div>
