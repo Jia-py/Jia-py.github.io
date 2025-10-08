@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and a visiting scholar at UW-Madison supervised by Prof. [Sharon Yixuan Li](https://pages.cs.wisc.edu/~sharonli/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from The University of Hong Kong (HKU) with a master's degree in Computer Science. My research interest includes Recommender System, Information Retrieval, Large Language Models, and GeoAI. 
+I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and I was a visiting scholar at UW-Madison supervised by Prof. [Sharon Yixuan Li](https://pages.cs.wisc.edu/~sharonli/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from The University of Hong Kong (HKU) with a master's degree in Computer Science. My research interest includes Recommender System, Information Retrieval, Large Language Models, and GeoAI. 
 <!-- <a href='https://scholar.google.com/citations?user=htpkMJcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # 🔥 News
@@ -318,7 +318,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 - *2020.06* **Second Place🥈 in LA COVID-19 Computational Challenge**, Granted by **RMDS & The Government of LA**
 
 # 📖 Educations
-- *2025.03 - now*, Visiting PhD Student in Computer Science, University of Wisconsin-Madison
+- *2025.03 - 2025.10*, Visiting PhD Student in Computer Science, University of Wisconsin-Madison
 - *2023.01 - now*, PhD candidate in Data Science, AML lab, City University of Hong Kong
 - *2021.09 - 2022.12*, MSc in Computer Science, The University of Hong Kong
 - *2017.09 - 2021.06*, BSc in Geographic Information Science, Zhejiang University
