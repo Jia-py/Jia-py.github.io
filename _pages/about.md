@@ -333,6 +333,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 💻 Internships & Exchange
 
+- *2025.10 - now*, Research Intern, Kuaishou Technology
 - *2023.06 - 2025.07*, Research Intern, Baidu Search Science Team
 <!-- - *2023.02 - now*, Research Intern, Huawei Noah's Ark Lab -->
 - *2022.06 - 2022.12*, Ad Recommendation Algorithm Intern, Meituan DaoDian Business Group, Shanghai, China.
@@ -351,7 +352,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 * 2023: KDD, Recsys, NeurIPS
 * 2024: KDD, ACM TKDD, CIKM
 * 2025: KDD, BigData, WWW, ARR, NeurIPS, ACM TKDD
-* 2026: AAAI
+* 2026: AAAI, ICLR
 
 ## Volunteer
 
