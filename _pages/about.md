@@ -76,7 +76,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 ### First or Co-First Work
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/PBR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26 Oral</div><img src='images/PBR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval*
 
