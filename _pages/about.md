@@ -74,7 +74,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 ## Conference and Journal Publications
 
-### First or Co-First Work
+### Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26 Oral</div><img src='images/PBR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,6 +84,18 @@ Yingyi Zhang\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, 
 
 [**Paper**](https://arxiv.org/abs/2510.08935) 
 <!-- \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP) -->
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/EIGML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection*
+
+Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, <b>Pengyue Jia</b>✉️, Wei Wang, Chengming Li, Xiangyu Zhao✉️
+
+<!-- [**Paper**](https://arxiv.org/abs/2510.08935) \|  -->
+[**Github**](https://github.com/Applied-Machine-Learning-Lab/EIGML) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/EIGML)
 
 </div>
 </div>
@@ -248,7 +260,6 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 <div class="scrollable-work">
   <ul>
-    <li><strong>13.</strong> Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection, Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, <b>Pengyue Jia</b>, Wei Wang, Chengming Li, Xiangyu Zhao,<b>AAAI'26</b>.</li>
     <li><strong>12.</strong> Renormalization Group Guided Tensor Network Structure Search, Maolin Wang, YU Bowen, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, <b>Pengyue Jia</b>, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao,<b>AAAI'26</b>.</li>
     <li><strong>11.</strong> RoSA: Enhancing Parameter-Efficient Fine-Tuning via RoPE-aware Selective Adaptation in Large Language Models, Dayan Pan, Jingyuan Wang, Yilong Zhou, Jiawei Cheng, <b>Pengyue Jia</b>, Xiangyu Zhao,<b>AAAI'26</b>.</li>
     <li><strong>10.</strong> Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning, wenlin zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, <b>Pengyue Jia</b>, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>NeurIPS'25</b>.</li>
