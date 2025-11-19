@@ -92,7 +92,7 @@ Yingyi Zhang\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, 
 <div class='paper-box-text' markdown="1">
 *Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection*
 
-Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, <b>Pengyue Jia</b>✉️, Wei Wang, Chengming Li, Xiangyu Zhao✉️
+Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, <b>Pengyue Jia</b> ✉️, Wei Wang, Chengming Li, Xiangyu Zhao ✉️
 
 <!-- [**Paper**](https://arxiv.org/abs/2510.08935) \|  -->
 [**Github**](https://github.com/Applied-Machine-Learning-Lab/EIGML) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/EIGML)
