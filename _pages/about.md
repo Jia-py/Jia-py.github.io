@@ -34,6 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.11</strong>: One paper is accepeted to <b>KDD'26</b>, congrats to Wenlin!</li>
     <li><strong>2025.11</strong>: Four papers are accepted to <b>AAAI'26</b>, congrats to Yingyi, Yuxuan, Maolin, and Dayan!</li>
     <li><strong>2025.09</strong>: Our paper GeoRanker and ReasonRAG are accepted to <b>NeurIPS'25</b>!</li>
     <li><strong>2025.08</strong>: I'm honored to received the Outstanding Academic Performance Award (OAPA) granted by CityU HK.</li>
@@ -260,6 +261,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 
 <div class="scrollable-work">
   <ul>
+    <li><strong>13.</strong> Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing, wenlin zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, <b>Pengyue Jia</b>, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>KDD'26</b>.</li>
     <li><strong>12.</strong> Renormalization Group Guided Tensor Network Structure Search, Maolin Wang, YU Bowen, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, <b>Pengyue Jia</b>, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao,<b>AAAI'26</b>.</li>
     <li><strong>11.</strong> RoSA: Enhancing Parameter-Efficient Fine-Tuning via RoPE-aware Selective Adaptation in Large Language Models, Dayan Pan, Jingyuan Wang, Yilong Zhou, Jiawei Cheng, <b>Pengyue Jia</b>, Xiangyu Zhao,<b>AAAI'26</b>.</li>
     <li><strong>10.</strong> Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning, wenlin zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, <b>Pengyue Jia</b>, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>NeurIPS'25</b>.</li>
