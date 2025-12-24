@@ -34,6 +34,7 @@ I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) C
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.12</strong>: Our Survey on Personalized RAG and Agent is accepted to <b>TOIS'26</b>, congrats to Xiaopeng!</li>
     <li><strong>2025.11</strong>: One paper is accepeted to <b>KDD'26</b>, congrats to Wenlin!</li>
     <li><strong>2025.11</strong>: Four papers are accepted to <b>AAAI'26</b>, congrats to Yingyi, Yuxuan, Maolin, and Dayan!</li>
     <li><strong>2025.09</strong>: Our paper GeoRanker and ReasonRAG are accepted to <b>NeurIPS'25</b>!</li>
@@ -149,7 +150,7 @@ Yingyi Zhang\*, **Pengyue Jia**\*, Xianneng Li, Derong Xu, Maolin Wang, Yichao W
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/PRAG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS'26</div><img src='images/PRAG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *A Survey of Personalization: From RAG to Agent*
 
