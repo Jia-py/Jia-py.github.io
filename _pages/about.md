@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from The University of Hong Kong (HKU) with a master's degree in Computer Science. My research interest includes Recommender System, Information Retrieval, Large Language Models, and GeoAI. 
+I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from The University of Hong Kong (HKU) with a master's degree in Computer Science. My research interest includes Recommender System, Information Retrieval, Large Language Models, and GeoAI. 
 <!-- <a href='https://scholar.google.com/citations?user=htpkMJcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # 🔥 News
@@ -193,7 +193,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/G3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/G3.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models*
 
@@ -204,7 +204,7 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'24 ADS</div><img src='images/ERASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'24 ADS</div><img src='images/ERASE.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [*ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems*](https://applied-machine-learning-lab.github.io/ERASE/)
 
@@ -223,6 +223,8 @@ Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang,
 *D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations*
 
 **Pengyue Jia**, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Huifeng Guo, Ruiming Tang.
+
+Deployed in the production environment with 100% traffic.
 
 </div>
 </div>
@@ -383,7 +385,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 * 2023: KDD, Recsys, NeurIPS
 * 2024: KDD, ACM TKDD, CIKM
 * 2025: KDD, BigData, WWW, ARR, NeurIPS, ACM TKDD
-* 2026: AAAI, ICLR
+* 2026: AAAI, ICLR, CVPR
 
 ## Volunteer
 
@@ -394,6 +396,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, H
 
 # 🏫 Teaching
 
+- **2026.01 - 2026.06**, Teaching Assistant, SDSC 6001 Statistical Machine Learning II.
 - **2025.01 - 2025.06**, Teaching Assistant, SDSC 6001 Statistical Machine Learning II.
 - **2024.09 - 2024.12**, Teaching Assistant, SDSC 5001 Statistical Machine Learning I.
 - **2024.01 - 2024.06**, Teaching Assistant, SDSC 6001 Statistical Machine Learning II.
