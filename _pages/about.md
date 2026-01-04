@@ -85,7 +85,6 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 Yingyi Zhang\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, wenlin zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao
 
 [**Paper**](https://arxiv.org/abs/2510.08935) 
-<!-- \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP) -->
 
 </div>
 </div>
@@ -96,7 +95,6 @@ Yingyi Zhang\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, 
 
 Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, <b>Pengyue Jia</b> ✉️, Wei Wang, Chengming Li, Xiangyu Zhao ✉️
 
-<!-- [**Paper**](https://arxiv.org/abs/2510.08935) \|  -->
 [**Github**](https://github.com/Applied-Machine-Learning-Lab/EIGML) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/EIGML)
 
 </div>
@@ -110,7 +108,6 @@ Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, <b>Pengyue Jia</b> ✉�
 **Pengyue Jia**\*, Yingyi Zhang\*, Xiangyu Zhao, Yixuan Li
 
 [**Paper**](https://arxiv.org/abs/2509.04334) 
-<!-- \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP) -->
 
 </div>
 </div>
@@ -122,7 +119,6 @@ Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, <b>Pengyue Jia</b> ✉�
 Derong Xu\*, **Pengyue Jia**\*, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong Liu, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Ruiming Tang, Enhong Chen, Tong Xu
 
 [**Paper**](https://arxiv.org/abs/2505.16237) 
-<!-- \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP) -->
 
 </div>
 </div>
@@ -134,7 +130,6 @@ Derong Xu\*, **Pengyue Jia**\*, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong L
 **Pengyue Jia**, Seongheon Park, Song Gao, Xiangyu Zhao, Yixuan Li
 
 [**Paper**](https://arxiv.org/abs/2505.13731) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoRanker) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoRanker)
-<!-- \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP) -->
 
 </div>
 </div>
