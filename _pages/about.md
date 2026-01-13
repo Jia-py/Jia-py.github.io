@@ -34,6 +34,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.01</strong>: Two papers are accepted to <b>WWW'26</b>, congrats to Xiaopeng and Wenlin!</li>
     <li><strong>2025.12</strong>: Our Survey on Personalized RAG and Agent is accepted to <b>TOIS'26</b>, congrats to Xiaopeng!</li>
     <li><strong>2025.11</strong>: One paper is accepeted to <b>KDD'26</b>, congrats to Wenlin!</li>
     <li><strong>2025.11</strong>: Four papers are accepted to <b>AAAI'26</b>, congrats to Yingyi, Yuxuan, Maolin, and Dayan!</li>
@@ -259,6 +260,8 @@ Deployed in the production environment with 100% traffic.
 
 <div class="scrollable-work">
   <ul>
+    <li><strong>15.</strong> To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention, Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, <b>Pengyue Jia</b>, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu and Xiangyu Zhao, <b>WWW'26</b>.</li>
+    <li><strong>14.</strong> BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations, Mengyang Ma, Xiaopeng Li, Wanyu Wang, Zhaocheng Du, Jingtong Gao, <b>Pengyue Jia</b>, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han and Xiangyu Zhao, <b>WWW'26</b>.</li>
     <li><strong>13.</strong> Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing, wenlin zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, <b>Pengyue Jia</b>, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>KDD'26</b>.</li>
     <li><strong>12.</strong> Renormalization Group Guided Tensor Network Structure Search, Maolin Wang, YU Bowen, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, <b>Pengyue Jia</b>, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao,<b>AAAI'26</b>.</li>
     <li><strong>11.</strong> RoSA: Enhancing Parameter-Efficient Fine-Tuning via RoPE-aware Selective Adaptation in Large Language Models, Dayan Pan, Jingyuan Wang, Yilong Zhou, Jiawei Cheng, <b>Pengyue Jia</b>, Xiangyu Zhao,<b>AAAI'26</b>.</li>
