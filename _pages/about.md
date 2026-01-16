@@ -85,7 +85,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 Yingyi Zhang\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, wenlin zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao
 
-[**Paper**](https://arxiv.org/abs/2510.08935) 
+[**Paper**](https://arxiv.org/abs/2510.08935) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/PBR-code) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/PBR-code)
 
 </div>
 </div>
@@ -108,7 +108,7 @@ Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, <b>Pengyue Jia</b> âœ‰ï
 
 **Pengyue Jia**\*, Yingyi Zhang\*, Xiangyu Zhao, Yixuan Li
 
-[**Paper**](https://arxiv.org/abs/2509.04334) 
+[**Paper**](https://arxiv.org/abs/2509.04334) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoArena) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoArena)
 
 </div>
 </div>
