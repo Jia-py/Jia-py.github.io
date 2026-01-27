@@ -34,6 +34,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.01</strong>: Two papers are accepted to <b>ICLR'26</b>, congrats to Yingyi and Derong!</li>
     <li><strong>2026.01</strong>: Two papers are accepted to <b>WWW'26</b>, congrats to Xiaopeng and Wenlin!</li>
     <li><strong>2025.12</strong>: Our Survey on Personalized RAG and Agent is accepted to <b>TOIS'26</b>, congrats to Xiaopeng!</li>
     <li><strong>2025.11</strong>: One paper is accepeted to <b>KDD'26</b>, congrats to Wenlin!</li>
@@ -260,6 +261,8 @@ Deployed in the production environment with 100% traffic.
 
 <div class="scrollable-work">
   <ul>
+    <li><strong>17.</strong> From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents, Derong Xu, Yi Wen, <b>Pengyue Jia</b>, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu, <b>ICLR'26</b>.</li>
+    <li><strong>16.</strong> Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval, Yingyi Zhang, Junyi Li, Wenlin Zhang, <b>Pengyue Jia</b>, Xianneng Li, Yichao Wang, Derong Xu, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao, <b>ICLR'26</b>.</li>
     <li><strong>15.</strong> To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention, Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, <b>Pengyue Jia</b>, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu and Xiangyu Zhao, <b>WWW'26</b>.</li>
     <li><strong>14.</strong> BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations, Mengyang Ma, Xiaopeng Li, Wanyu Wang, Zhaocheng Du, Jingtong Gao, <b>Pengyue Jia</b>, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han and Xiangyu Zhao, <b>WWW'26</b>.</li>
     <li><strong>13.</strong> Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing, wenlin zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, <b>Pengyue Jia</b>, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>KDD'26</b>.</li>
