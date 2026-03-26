@@ -80,6 +80,17 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ### Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/georouter.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization*
+
+**Pengyue Jia**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao
+
+[**Paper**](https://arxiv.org/abs/2603.24376)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26 Oral</div><img src='images/PBR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval*
