@@ -34,6 +34,8 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.04</strong>: Three papers are accepted to <b>SIGIR'26</b>, congrats to Derong, Xiaopeng, and Ziwei!</li>
+    <li><strong>2026.04</strong>: Our tutorial on Personalized RAG and Agent is accepted to <b>SIGIR'26</b>!</li>
     <li><strong>2026.01</strong>: Two papers are accepted to <b>ICLR'26</b>, congrats to Yingyi and Derong!</li>
     <li><strong>2026.01</strong>: Two papers are accepted to <b>WWW'26</b>, congrats to Xiaopeng and Wenlin!</li>
     <li><strong>2025.12</strong>: Our Survey on Personalized RAG and Agent is accepted to <b>TOIS'26</b>, congrats to Xiaopeng!</li>
@@ -272,6 +274,9 @@ Deployed in the production environment with 100% traffic.
 
 <div class="scrollable-work">
   <ul>
+    <li><strong>20.</strong> ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory, Derong Xu, Yanxin Chen, Wanyu Wang, <b>Pengyue Jia</b>, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao, <b>SIGIR'26</b>.</li>
+    <li><strong>19.</strong> LLM-EDT: Large Language Models Enhanced Cross-domain Sequential Recommendation with Dual-phase Training, Ziwei Liu, Qidong Liu, Wanyu Wang, Yejing Wang, <b>Pengyue Jia</b>, Tong Xu, WEI HUANG, Chong Chen, Xiangyu Zhao, <b>SIGIR'26</b>.</li>
+    <li><strong>18.</strong> Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery, Xiaopeng Li, Wenlin Zhang, Yingyi Zhang, <b>Pengyue Jia</b>, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo and Xiangyu Zhao, <b>SIGIR'26 Resource Track</b>.</li>
     <li><strong>17.</strong> From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents, Derong Xu, Yi Wen, <b>Pengyue Jia</b>, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu, <b>ICLR'26</b>.</li>
     <li><strong>16.</strong> Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval, Yingyi Zhang, Junyi Li, Wenlin Zhang, <b>Pengyue Jia</b>, Xianneng Li, Yichao Wang, Derong Xu, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao, <b>ICLR'26</b>.</li>
     <li><strong>15.</strong> To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention, Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, <b>Pengyue Jia</b>, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu and Xiangyu Zhao, <b>WWW'26</b>.</li>
@@ -293,6 +298,18 @@ Deployed in the production environment with 100% traffic.
 </div>
 
 ## Tutorials and Workshops
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR'2026</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Bridging Personalization and AI: From RAG to Agent*
+
+**Pengyue Jia**\*, Xiaopeng Li\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu and Xiangyu Zhao
+
+<!-- [**Home Page**](https://applied-machine-learning-lab.github.io/KDD25-Tutorial-LLM-Enhanced-RecSys/about) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-LLM-Enhanced-Recommender-Systems) -->
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'2025</div><img src='images/KDD2025-Tutorial.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
