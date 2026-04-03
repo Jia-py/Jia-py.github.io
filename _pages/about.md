@@ -84,210 +84,70 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 “†” denotes equal contributions, "\*" denotes corresponding authors
 
-* *GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization*\
+* **GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization**\
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2603.24376)
 
-* *Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval*\
+* **Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**\
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
   **AAAI'26 Oral** \| [**Paper**](https://arxiv.org/abs/2510.08935) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/PBR-code) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/PBR-code)
 
-* *Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection*\
+* **Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection**\
   Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, **<ins>Pengyue Jia</ins>**\*, Wei Wang, Chengming Li, Xiangyu Zhao\*\
   **AAAI'26** \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/EIGML) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/EIGML)
 
-* *GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization*\
+* **GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization**\
   **<ins>Pengyue Jia</ins>**†, Yingyi Zhang†, Xiangyu Zhao, Yixuan Li\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2509.04334) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoArena) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoArena)
 
-* *Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation*\
+* **Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation**\
   Derong Xu†, **<ins>Pengyue Jia</ins>**†, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong Liu, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Ruiming Tang, Enhong Chen, Tong Xu\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2505.16237) 
 
-* *GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization*\
+* **GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization**\
   **<ins>Pengyue Jia</ins>**, Seongheon Park, Song Gao, Xiangyu Zhao, Yixuan Li\
   **NeurIPS'25** \| [**Paper**](https://arxiv.org/abs/2505.13731) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoRanker) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoRanker)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/georouter.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization*
+* **LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration**\
+  **KDD'25** \| Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Xianneng Li, Derong Xu, Maolin Wang, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao\
+  [**Paper**](https://arxiv.org/abs/2505.05031#) \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP)
 
-**Pengyue Jia**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao
+* **A Survey of Personalization: From RAG to Agent**\
+  Xiaopeng Li†, **<ins>Pengyue Jia</ins>**†, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
+  **TOIS'26** \| [**Paper**](https://arxiv.org/abs/2504.10147) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)
 
-[**Paper**](https://arxiv.org/abs/2603.24376)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26 Oral</div><img src='images/PBR.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval*
-
-Yingyi Zhang\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, wenlin zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao
-
-[**Paper**](https://arxiv.org/abs/2510.08935) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/PBR-code) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/PBR-code)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/EIGML.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection*
-
-Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, <b>Pengyue Jia</b> ✉️, Wei Wang, Chengming Li, Xiangyu Zhao ✉️
-
-[**Github**](https://github.com/Applied-Machine-Learning-Lab/EIGML) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/EIGML)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/geoarena.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization*
-
-**Pengyue Jia**\*, Yingyi Zhang\*, Xiangyu Zhao, Yixuan Li
-
-[**Paper**](https://arxiv.org/abs/2509.04334) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoArena) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoArena)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Align-GRAG.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation*
-
-Derong Xu\*, **Pengyue Jia**\*, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong Liu, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Ruiming Tang, Enhong Chen, Tong Xu
-
-[**Paper**](https://arxiv.org/abs/2505.16237) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'25</div><img src='images/GeoRanker.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization*
-
-**Pengyue Jia**, Seongheon Park, Song Gao, Xiangyu Zhao, Yixuan Li
-
-[**Paper**](https://arxiv.org/abs/2505.13731) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoRanker) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoRanker)
-
-</div>
-</div> -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'25</div><img src='images/LSRP.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration*
-
-Yingyi Zhang\*, **Pengyue Jia**\*, Xianneng Li, Derong Xu, Maolin Wang, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao
-
-[**Paper**](https://arxiv.org/abs/2505.05031#) \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS'26</div><img src='images/PRAG.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*A Survey of Personalization: From RAG to Agent*
-
-Xiaopeng Li\*, **Pengyue Jia**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
-
-[**Paper**](https://arxiv.org/abs/2504.10147) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'25 Findings</div><img src='images/RADIO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation*
-
-**Pengyue Jia**\*, Derong Xu\*, Xiaopeng Li\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
-
-[**Paper**](https://arxiv.org/abs/2412.08519) \| [**Code**](https://github.com/Applied-Machine-Learning-Lab/RADIO) \| [**Dataset**](https://huggingface.co/datasets/Jia-py/RADIO)
+* **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**\
+  **<ins>Pengyue Jia</ins>**†, Derong Xu†, Xiaopeng Li\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang\
+  **ACL'25 Findings** \| [**Paper**](https://arxiv.org/abs/2412.08519) \| [**Code**](https://github.com/Applied-Machine-Learning-Lab/RADIO) \| [**Dataset**](https://huggingface.co/datasets/Jia-py/RADIO)
 \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/RADIO)
 
-</div>
-</div>
+* **SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems**\
+  **CIKM'25** \| **<ins>Pengyue Jia</ins>**, Zhaocheng Du, Yichao Wang, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'25</div><img src='images/SELF_cikm.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems*
+* **Second Place Overall Solution for Amazon KDD Cup 2024**\
+  **<ins>Pengyue Jia</ins>**†, Jingtong Gao†, Xiaopeng Li†, Zixuan Wang†, Yiyao Jin†, Xiangyu Zhao\
+  **KDD Cup Workshop Oral** \| [**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page**](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Certificate**](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)
 
-**Pengyue Jia**, Zhaocheng Du, Yichao Wang, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+* **G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**\
+  **<ins>Pengyue Jia</ins>**, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
+  **NeurIPS'24** \| [**Paper**](https://arxiv.org/abs/2405.14702) \| [**Code**](https://github.com/Applied-Machine-Learning-Lab/G3) \| [**MP16-Pro Dataset (5000+ downloads)**](https://huggingface.co/datasets/Jia-py/MP16-Pro/tree/main) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/G3)
 
-</div>
-</div>
+* **ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**\
+  **<ins>Pengyue Jia</ins>**†, Yejing Wang†, Zhaocheng Du†, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang\
+  **KDD'24** \| [**Home Page**](https://applied-machine-learning-lab.github.io/ERASE/) \| [**Paper**](https://arxiv.org/abs/2403.12660) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/ERASE) \| [**Dataset**](https://portland-my.sharepoint.com/:f:/g/personal/pyjia2-c_my_cityu_edu_hk/Eig99ijVRYZHuo6mBrJA5jIBioFU8vwATcRYeLLlYFSUAg) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/ERASE)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD CUP Workshop Oral</div><img src='images/kddcup2024.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*Second Place Overall Solution for Amazon KDD Cup 2024*
+* **D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations**\
+  **<ins>Pengyue Jia</ins>**, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Huifeng Guo, Ruiming Tang.
+  **AAAI'24** \| Deployed in the production environment with 100% traffic.
 
-**Pengyue Jia**\*, Jingtong Gao\*, Xiaopeng Li\*, Zixuan Wang\*, Yiyao Jin\*, Xiangyu Zhao
+* **MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion**\
+  **<ins>Pengyue Jia</ins>**, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin\
+  **NAACL'24 Main** \| [**Home Page**](https://applied-machine-learning-lab.github.io/MILL/) \| [**Paper**](https://arxiv.org/abs/2310.19056) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/MILL) \| [**Dataset**](https://ir-datasets.com/index.html) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/MILL)
 
-[**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page**](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Certificate**](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)
+* **Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model**\
+  **<ins>Pengyue Jia</ins>**, Ling Chen, Dandan Lyu\
+  **Cybernetics and Systems**
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/G3.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-*G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models*
-
-**Pengyue Jia**, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin
-
-[**Paper**](https://arxiv.org/abs/2405.14702) \| [**Code**](https://github.com/Applied-Machine-Learning-Lab/G3) \| [**MP16-Pro Dataset (5000+ downloads)**](https://huggingface.co/datasets/Jia-py/MP16-Pro/tree/main) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/G3)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'24 ADS</div><img src='images/ERASE.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[*ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems*](https://applied-machine-learning-lab.github.io/ERASE/)
-
-
-**Pengyue Jia**\*, Yejing Wang\*, Zhaocheng Du\*, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang
-
-[**Home Page**](https://applied-machine-learning-lab.github.io/ERASE/) \| [**Paper**](https://arxiv.org/abs/2403.12660) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/ERASE) \| [**Dataset**](https://portland-my.sharepoint.com/:f:/g/personal/pyjia2-c_my_cityu_edu_hk/Eig99ijVRYZHuo6mBrJA5jIBioFU8vwATcRYeLLlYFSUAg) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/ERASE)
-
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'24</div><img src='images/D3.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations*
-
-**Pengyue Jia**, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Huifeng Guo, Ruiming Tang.
-
-Deployed in the production environment with 100% traffic.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL'24 Main Conference</div><img src='images/MILL.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[*MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion*](https://applied-machine-learning-lab.github.io/MILL/)
-
-**Pengyue Jia**, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin.
-
-[**Home Page**](https://applied-machine-learning-lab.github.io/MILL/) \| [**Paper**](https://arxiv.org/abs/2310.19056) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/MILL) \| [**Dataset**](https://ir-datasets.com/index.html) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/MILL)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cybernetics and Systems</div><img src='images/FGC.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[*Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model*](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614)
-
- **Pengyue Jia**, Ling Chen, Dandan Lyu.
-
-</div>
-</div>
 
 ### Other Work
 
