@@ -82,15 +82,33 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ### Selected Publications
 
-“†” denotes equal contributions, "*" denotes corresponding authors
+“†” denotes equal contributions, "\*" denotes corresponding authors
 
-*GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization*
+* *GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization*
+  **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao
+  **arxiv** \| [**Paper**](https://arxiv.org/abs/2603.24376)
 
-**Pengyue Jia**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao
+* *Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval*
+  **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao
+  **AAAI'26 Oral** \| [**Paper**](https://arxiv.org/abs/2510.08935) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/PBR-code) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/PBR-code)
 
-[**Paper**](https://arxiv.org/abs/2603.24376)
+* *Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection*
+  Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, **<ins>Pengyue Jia</ins>**\*, Wei Wang, Chengming Li, Xiangyu Zhao\*
+  **AAAI'26** \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/EIGML) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/EIGML)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/georouter.jpg' alt="sym" width="100%"></div></div>
+* *GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization*
+  **<ins>Pengyue Jia</ins>**†, Yingyi Zhang†, Xiangyu Zhao, Yixuan Li
+  **arxiv** \| [**Paper**](https://arxiv.org/abs/2509.04334) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoArena) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoArena)
+
+* *Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation*
+  Derong Xu†, **<ins>Pengyue Jia</ins>**†, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong Liu, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Ruiming Tang, Enhong Chen, Tong Xu
+  **arxiv** \| [**Paper**](https://arxiv.org/abs/2505.16237) 
+
+* *GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization*
+  **<ins>Pengyue Jia</ins>**, Seongheon Park, Song Gao, Xiangyu Zhao, Yixuan Li
+  **NeurIPS'25** \| [**Paper**](https://arxiv.org/abs/2505.13731) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoRanker) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoRanker)
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/georouter.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization*
 
@@ -155,7 +173,7 @@ Derong Xu\*, **Pengyue Jia**\*, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong L
 [**Paper**](https://arxiv.org/abs/2505.13731) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoRanker) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoRanker)
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'25</div><img src='images/LSRP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
