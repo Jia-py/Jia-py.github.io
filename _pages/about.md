@@ -89,7 +89,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2603.24376)
 
 * **Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**\
-  **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
+  Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao\
   **AAAI'26 Oral** \| [**Paper**](https://arxiv.org/abs/2510.08935) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/PBR-code) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/PBR-code)
 
 * **Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection**\
@@ -109,20 +109,21 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
   **NeurIPS'25** \| [**Paper**](https://arxiv.org/abs/2505.13731) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoRanker) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoRanker)
 
 * **LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration**\
-  **KDD'25** \| Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Xianneng Li, Derong Xu, Maolin Wang, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao\
-  [**Paper**](https://arxiv.org/abs/2505.05031#) \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP)
+  Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Xianneng Li, Derong Xu, Maolin Wang, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao\
+  **KDD'25** \| [**Paper**](https://arxiv.org/abs/2505.05031#) \| [**Github**](https://github.com/Zhang-Yingyi/LSRP) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Zhang-Yingyi/LSRP)
 
 * **A Survey of Personalization: From RAG to Agent**\
   Xiaopeng Li†, **<ins>Pengyue Jia</ins>**†, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
   **TOIS'26** \| [**Paper**](https://arxiv.org/abs/2504.10147) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)
 
 * **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**\
-  **<ins>Pengyue Jia</ins>**†, Derong Xu†, Xiaopeng Li\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang\
+  **<ins>Pengyue Jia</ins>**†, Derong Xu†, Xiaopeng Li†, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang\
   **ACL'25 Findings** \| [**Paper**](https://arxiv.org/abs/2412.08519) \| [**Code**](https://github.com/Applied-Machine-Learning-Lab/RADIO) \| [**Dataset**](https://huggingface.co/datasets/Jia-py/RADIO)
 \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/RADIO)
 
 * **SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems**\
-  **CIKM'25** \| **<ins>Pengyue Jia</ins>**, Zhaocheng Du, Yichao Wang, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  **<ins>Pengyue Jia</ins>**, Zhaocheng Du, Yichao Wang, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
+  **CIKM'25**
 
 * **Second Place Overall Solution for Amazon KDD Cup 2024**\
   **<ins>Pengyue Jia</ins>**†, Jingtong Gao†, Xiaopeng Li†, Zixuan Wang†, Yiyao Jin†, Xiangyu Zhao\
