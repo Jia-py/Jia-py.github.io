@@ -138,7 +138,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
   **KDD'24** \| [**Home Page**](https://applied-machine-learning-lab.github.io/ERASE/) \| [**Paper**](https://arxiv.org/abs/2403.12660) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/ERASE) \| [**Dataset**](https://portland-my.sharepoint.com/:f:/g/personal/pyjia2-c_my_cityu_edu_hk/Eig99ijVRYZHuo6mBrJA5jIBioFU8vwATcRYeLLlYFSUAg) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/ERASE)
 
 * **D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations**\
-  **<ins>Pengyue Jia</ins>**, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Huifeng Guo, Ruiming Tang.
+  **<ins>Pengyue Jia</ins>**, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Huifeng Guo, Ruiming Tang\
   **AAAI'24** \| Deployed in the production environment with 100% traffic.
 
 * **MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion**\
