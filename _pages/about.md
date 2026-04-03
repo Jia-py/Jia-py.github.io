@@ -299,7 +299,7 @@ Deployed in the production environment with 100% traffic.
 
 ## Tutorials and Workshops
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR'2026</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR'2026</div><img src='images/sigir2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Bridging Personalization and AI: From RAG to Agent*
