@@ -109,13 +109,13 @@ h1:before, .anchor:before {
 }
 
 .badge-inline {
-    display: inline-block;       /* 让 badge 跟文字在同一行并占空间 */
-    padding: 0.1em 0.5em;        /* 内边距，上下小，左右稍大 */
-    background-color: #00369f;   /* 蓝色背景 */
-    color: white;                /* 文字白色 */
-    font-size: 0.8em;            /* 文字大小 */
-    font-weight: bold;           /* 粗体 */
-    border-radius: 4px;          /* 圆角 */
-    vertical-align: middle;      /* 与文字垂直居中对齐 */
-    margin-right: 0.5em;         /* 后面文字留一点间距 */
+    display: inline-block;
+    padding: 0.1em 0.5em;
+    background-color: #00369f;
+    color: white;
+    font-size: 0.8em;
+    font-weight: bold;
+    border-radius: 4px;
+    vertical-align: middle;
+    margin-right: 0.5em;
 }
