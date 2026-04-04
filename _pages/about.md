@@ -29,6 +29,12 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
   }
 </style>
 
+.paper-title {
+  font-weight: bold;
+  font-size: 16px;
+  color: #2f78ac;
+}
+
 <!-- <font color="red></font>
 <a href=""></a> -->
 
@@ -80,15 +86,15 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ## Conference and Journal Publications
 
-### Selected Publications
-
 “†” denotes equal contributions, "\*" denotes corresponding authors
 
-* **GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization**\
+### Selected Publications
+
+* <span class="paper-title">GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization</span>\
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2603.24376)
 
-* **Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**\
+* <span class="paper-title">Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval</span>\
   Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao\
   **AAAI'26 Oral** \| [**Paper**](https://arxiv.org/abs/2510.08935) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/PBR-code) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/PBR-code)
 
@@ -191,7 +197,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 *Bridging Personalization and AI: From RAG to Agent*
 
-**Pengyue Jia**\*, Xiaopeng Li\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu and Xiangyu Zhao
+**<ins>Pengyue Jia</ins>**†, Xiaopeng Li†, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu and Xiangyu Zhao
 
 <!-- [**Home Page**](https://applied-machine-learning-lab.github.io/KDD25-Tutorial-LLM-Enhanced-RecSys/about) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-LLM-Enhanced-Recommender-Systems) -->
 
