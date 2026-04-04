@@ -90,7 +90,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ### Selected Publications
 
-* <span class="paper-title">GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization</span>\
+* <span style="font-weight:bold; font-size:16px; color:#2f78ac;">GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization</span>\
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2603.24376)
 
