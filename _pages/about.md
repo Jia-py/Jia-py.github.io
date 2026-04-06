@@ -34,6 +34,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.04</strong>: Six papers are accepted to <b>ACL'26</b>, including GeoArena, congrats to Sheng, Jingyu, Yimin, Xiaopeng, and Derong!</li>
     <li><strong>2026.04</strong>: Three papers are accepted to <b>SIGIR'26</b>, congrats to Derong, Xiaopeng, and Ziwei!</li>
     <li><strong>2026.04</strong>: Our tutorial on Personalized RAG and Agent is accepted to <b>SIGIR'26</b>!</li>
     <li><strong>2026.01</strong>: Two papers are accepted to <b>ICLR'26</b>, congrats to Yingyi and Derong!</li>
@@ -97,15 +98,15 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
   <span class="badge-inline">AAAI'26</span> \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/EIGML) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/EIGML)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization</span>\
-  **<ins>Pengyue Jia</ins>**†, Yingyi Zhang†, Xiangyu Zhao, Yixuan Li\
-  **arxiv** \| [**Paper**](https://arxiv.org/abs/2509.04334) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoArena) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoArena)
+  **<ins>Pengyue Jia</ins>**†, Yingyi Zhang†, Xiangyu Zhao, Sharon Li\
+  <span class="badge-inline">ACL'26 Main</span> \| [**Paper**](https://arxiv.org/abs/2509.04334) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoArena) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoArena)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation</span>\
   Derong Xu†, **<ins>Pengyue Jia</ins>**†, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong Liu, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Ruiming Tang, Enhong Chen, Tong Xu\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2505.16237) 
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization</span>\
-  **<ins>Pengyue Jia</ins>**, Seongheon Park, Song Gao, Xiangyu Zhao, Yixuan Li\
+  **<ins>Pengyue Jia</ins>**, Seongheon Park, Song Gao, Xiangyu Zhao, Sharon Li\
   <span class="badge-inline">NeurIPS'25</span> \| [**Paper**](https://arxiv.org/abs/2505.13731) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoRanker) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoRanker)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration</span>\
@@ -161,26 +162,32 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable-work">
   <ul>
-    <li><strong>20.</strong> ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory, Derong Xu, Yanxin Chen, Wanyu Wang, <b>Pengyue Jia</b>, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao, <b>SIGIR'26</b>.</li>
-    <li><strong>19.</strong> LLM-EDT: Large Language Models Enhanced Cross-domain Sequential Recommendation with Dual-phase Training, Ziwei Liu, Qidong Liu, Wanyu Wang, Yejing Wang, <b>Pengyue Jia</b>, Tong Xu, WEI HUANG, Chong Chen, Xiangyu Zhao, <b>SIGIR'26</b>.</li>
-    <li><strong>18.</strong> Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery, Xiaopeng Li, Wenlin Zhang, Yingyi Zhang, <b>Pengyue Jia</b>, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo and Xiangyu Zhao, <b>SIGIR'26 Resource Track</b>.</li>
-    <li><strong>17.</strong> From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents, Derong Xu, Yi Wen, <b>Pengyue Jia</b>, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu, <b>ICLR'26</b>.</li>
-    <li><strong>16.</strong> Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval, Yingyi Zhang, Junyi Li, Wenlin Zhang, <b>Pengyue Jia</b>, Xianneng Li, Yichao Wang, Derong Xu, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao, <b>ICLR'26</b>.</li>
-    <li><strong>15.</strong> To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention, Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, <b>Pengyue Jia</b>, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu and Xiangyu Zhao, <b>WWW'26</b>.</li>
-    <li><strong>14.</strong> BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations, Mengyang Ma, Xiaopeng Li, Wanyu Wang, Zhaocheng Du, Jingtong Gao, <b>Pengyue Jia</b>, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han and Xiangyu Zhao, <b>WWW'26</b>.</li>
-    <li><strong>13.</strong> Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing, wenlin zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, <b>Pengyue Jia</b>, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>KDD'26</b>.</li>
-    <li><strong>12.</strong> Renormalization Group Guided Tensor Network Structure Search, Maolin Wang, YU Bowen, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, <b>Pengyue Jia</b>, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao,<b>AAAI'26</b>.</li>
-    <li><strong>11.</strong> RoSA: Enhancing Parameter-Efficient Fine-Tuning via RoPE-aware Selective Adaptation in Large Language Models, Dayan Pan, Jingyuan Wang, Yilong Zhou, Jiawei Cheng, <b>Pengyue Jia</b>, Xiangyu Zhao,<b>AAAI'26</b>.</li>
-    <li><strong>10.</strong> Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning, wenlin zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, <b>Pengyue Jia</b>, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>NeurIPS'25</b>.</li>
-    <li><strong>9.</strong> Prompt Tuning as User Inherent Profile Inference Machine, Yusheng Lu, Zhaocheng Du, Xiangyang Li, <b>Pengyue Jia</b>, Yejing Wang, Weiwen Liu, Yichao Wang, Huifeng Guo, Ruiming Tang, Zhenhua Dong, Yongrui Duan and Xiangyu Zhao, <b>CIKM'25 (Applied Research Track)</b>.</li>
-    <li><strong>8.</strong> Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark, Xiaopeng Li, Jingtong Gao, <b>Pengyue Jia</b>, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang, <b>CIKM'25</b>.</li>
-    <li><strong>7.</strong> Agent4ranking: Semantic robust ranking via personalized query rewriting using multi-agent llm, Xiaopeng Li, Lixin Su, <b>Pengyue Jia</b>, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin, <b>TOIS</b>.</li>
-    <li><strong>6.</strong> Stepwise Reasoning Error Disruption Attack of LLMs, Jingyu Peng, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, <b>Pengyue Jia</b>, Qidong Liu, Ruocheng Guo, Qi Liu, <b>ACL'25 Main</b>.</li>
-    <li><strong>5.</strong> Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation, Yi Wen, Yue Liu, Derong Xu, Huishi Luo, <b>Pengyue Jia</b>, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao, <b>KDD'25</b>.</li>
-    <li><strong>4.</strong> Large Language Model Enhanced Recommender Systems: A Survey, Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, <b>Pengyue Jia</b>, Chong Chen, Wei Huang, Feng Tian, <b>KDD'25</b>.</li>
-    <li><strong>3.</strong> Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models, Yuhao Wang, Junwei Pan, Xiangyu Zhao, <b>Pengyue Jia</b>, Wanyu Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, <b>SIGIR'25</b>.</li>
-    <li><strong>2.</strong> TAPO: TASK-REFERENCED ADAPTATION FOR PROMPT OPTIMIZATION, Wenxin Luo*, Weirui Wang*, Xiaopeng Li*, Weibo Zhou, <b>Pengyue Jia</b>, Xiangyu Zhao, <b>ICASSP'25</b>.</li>
-    <li><strong>1.</strong> SIGMA: Selective Gated Mamba for Sequential Recommendation, Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, <b>Pengyue Jia</b>, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao, <b>AAAI'25</b>.</li>
+    <!-- <li><strong>21.</strong> , <b>ACL'26</b>.</li> -->
+    <li><strong>25.</strong> Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory, Derong Xu, Shuochen Liu, Pengfei Luo, <b><u>Pengyue Jia</u></b>, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao, Tong Xu, <b>ACL'26 Main</b>.</li>
+    <li><strong>24.</strong> MTA:A Merge-then-Adapt Framework for Personalized Large Language Models, Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, Wenlin Zhang, <b><u>Pengyue Jia</u></b>, Yingyi Zhang, Haiying He, Mengyang Ma, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao, <b>ACL'26 Main</b>.</li>
+    <li><strong>23.</strong> MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning, Yimin Deng, Zhenxi Lin, Yejing Wang, Xian Wu, <b><u>Pengyue Jia</u></b>, Zichuan Fu, Derong Xu, Yefeng Zheng, Xiangyu Zhao, Guoshuai Zhao, Li Zhu, Xueming Qian, <b>ACL'26 Findings</b>.</li>
+    <li><strong>22.</strong> Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression, Jingyu Peng, Maolin Wang, Nan Wang, Jiatong Li, Yuchen Li, Yuyang Ye, Wanyu Wang, <b><u>Pengyue Jia</u></b>, Kai Zhang, Xiangyu Zhao, <b>ACL'26 Findings</b>.</li>
+    <li><strong>21.</strong> MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search, Sheng Zhang, Junyi Li, Yingyi Zhang, <b><u>Pengyue Jia</u></b>, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao, <b>ACL'26 Main</b>.</li>
+    <li><strong>20.</strong> ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory, Derong Xu, Yanxin Chen, Wanyu Wang, <b><u>Pengyue Jia</u></b>, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao, <b>SIGIR'26</b>.</li>
+    <li><strong>19.</strong> LLM-EDT: Large Language Models Enhanced Cross-domain Sequential Recommendation with Dual-phase Training, Ziwei Liu, Qidong Liu, Wanyu Wang, Yejing Wang, <b><u>Pengyue Jia</u></b>, Tong Xu, WEI HUANG, Chong Chen, Xiangyu Zhao, <b>SIGIR'26</b>.</li>
+    <li><strong>18.</strong> Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery, Xiaopeng Li, Wenlin Zhang, Yingyi Zhang, <b><u>Pengyue Jia</u></b>, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo and Xiangyu Zhao, <b>SIGIR'26 Resource Track</b>.</li>
+    <li><strong>17.</strong> From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents, Derong Xu, Yi Wen, <b><u>Pengyue Jia</u></b>, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu, <b>ICLR'26</b>.</li>
+    <li><strong>16.</strong> Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval, Yingyi Zhang, Junyi Li, Wenlin Zhang, <b><u>Pengyue Jia</u></b>, Xianneng Li, Yichao Wang, Derong Xu, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao, <b>ICLR'26</b>.</li>
+    <li><strong>15.</strong> To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention, Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, <b><u>Pengyue Jia</u></b>, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu and Xiangyu Zhao, <b>WWW'26</b>.</li>
+    <li><strong>14.</strong> BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations, Mengyang Ma, Xiaopeng Li, Wanyu Wang, Zhaocheng Du, Jingtong Gao, <b><u>Pengyue Jia</u></b>, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han and Xiangyu Zhao, <b>WWW'26</b>.</li>
+    <li><strong>13.</strong> Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing, wenlin zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, <b><u>Pengyue Jia</u></b>, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>KDD'26</b>.</li>
+    <li><strong>12.</strong> Renormalization Group Guided Tensor Network Structure Search, Maolin Wang, YU Bowen, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, <b><u>Pengyue Jia</u></b>, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao,<b>AAAI'26</b>.</li>
+    <li><strong>11.</strong> RoSA: Enhancing Parameter-Efficient Fine-Tuning via RoPE-aware Selective Adaptation in Large Language Models, Dayan Pan, Jingyuan Wang, Yilong Zhou, Jiawei Cheng, <b><u>Pengyue Jia</u></b>, Xiangyu Zhao,<b>AAAI'26</b>.</li>
+    <li><strong>10.</strong> Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning, wenlin zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, <b><u>Pengyue Jia</u></b>, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, <b>NeurIPS'25</b>.</li>
+    <li><strong>9.</strong> Prompt Tuning as User Inherent Profile Inference Machine, Yusheng Lu, Zhaocheng Du, Xiangyang Li, <b><u>Pengyue Jia</u></b>, Yejing Wang, Weiwen Liu, Yichao Wang, Huifeng Guo, Ruiming Tang, Zhenhua Dong, Yongrui Duan and Xiangyu Zhao, <b>CIKM'25 (Applied Research Track)</b>.</li>
+    <li><strong>8.</strong> Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark, Xiaopeng Li, Jingtong Gao, <b><u>Pengyue Jia</u></b>, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang, <b>CIKM'25</b>.</li>
+    <li><strong>7.</strong> Agent4ranking: Semantic robust ranking via personalized query rewriting using multi-agent llm, Xiaopeng Li, Lixin Su, <b><u>Pengyue Jia</u></b>, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin, <b>TOIS</b>.</li>
+    <li><strong>6.</strong> Stepwise Reasoning Error Disruption Attack of LLMs, Jingyu Peng, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, <b><u>Pengyue Jia</u></b>, Qidong Liu, Ruocheng Guo, Qi Liu, <b>ACL'25 Main</b>.</li>
+    <li><strong>5.</strong> Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation, Yi Wen, Yue Liu, Derong Xu, Huishi Luo, <b><u>Pengyue Jia</u></b>, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao, <b>KDD'25</b>.</li>
+    <li><strong>4.</strong> Large Language Model Enhanced Recommender Systems: A Survey, Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, <b><u>Pengyue Jia</u></b>, Chong Chen, Wei Huang, Feng Tian, <b>KDD'25</b>.</li>
+    <li><strong>3.</strong> Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models, Yuhao Wang, Junwei Pan, Xiangyu Zhao, <b><u>Pengyue Jia</u></b>, Wanyu Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, <b>SIGIR'25</b>.</li>
+    <li><strong>2.</strong> TAPO: TASK-REFERENCED ADAPTATION FOR PROMPT OPTIMIZATION, Wenxin Luo*, Weirui Wang*, Xiaopeng Li*, Weibo Zhou, <b><u>Pengyue Jia</u></b>, Xiangyu Zhao, <b>ICASSP'25</b>.</li>
+    <li><strong>1.</strong> SIGMA: Selective Gated Mamba for Sequential Recommendation, Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, <b><u>Pengyue Jia</u></b>, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao, <b>AAAI'25</b>.</li>
   </ul>
 </div>
 
@@ -203,7 +210,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 *Large Language Model Enhanced Recommender Systems-Methods, Applications and Trends*
 
-Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, **Pengyue Jia**, Chong Chen, Wei Huang, Feng Tian
+Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, **<ins>Pengyue Jia</ins>**, Chong Chen, Wei Huang, Feng Tian
 
 [**Home Page**](https://applied-machine-learning-lab.github.io/KDD25-Tutorial-LLM-Enhanced-RecSys/about) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-LLM-Enhanced-Recommender-Systems)
 
@@ -215,7 +222,7 @@ Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang
 
 *AgentIR: 2nd Workshop on Agent-based Information Retrieval*
 
-**Pengyue Jia**, Qingpeng Cai, Xiangyu Zhao, Ling Pan, Xin Xin, Jin Huang, Weinan Zhang, Li Zhao, Dawei Yin, Grace Hui Yang
+**<ins>Pengyue Jia</ins>**, Qingpeng Cai, Xiangyu Zhao, Ling Pan, Xin Xin, Jin Huang, Weinan Zhang, Li Zhao, Dawei Yin, Grace Hui Yang
 
 [**Home Page**](https://applied-machine-learning-lab.github.io/2nd-AgentIR-Workshop-SIGIR-2025/about)
 
@@ -228,7 +235,7 @@ Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang
 
 *Joint Modeling in Deep Recommender Systems*
 
-**Pengyue Jia**, Jingtong Gao, Yejing Wang, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
+**<ins>Pengyue Jia</ins>**, Jingtong Gao, Yejing Wang, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
 
 [**Home Page**](https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/) \| [**Slides**](https://github.com/Applied-Machine-Learning-Lab/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/blob/main/pdf/jointmodeling-www2025.pdf)
 
@@ -240,7 +247,7 @@ Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang
 
 *Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era*
 
-Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, Xiao Han, **Pengyue Jia**, Bin Yang and Christian S. Jensen
+Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, Xiao Han, **<ins>Pengyue Jia</ins>**, Bin Yang and Christian S. Jensen
 
 </div>
 </div>
@@ -250,7 +257,7 @@ Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, Xiao Han, **Pengyue Jia**, Bin Y
 
 [Joint Modeling in Recommendations: Foundations and Frontiers](https://zhaoxyai.github.io/paper/jointmodeling.pdf)
 
-Xiangyu Zhao, Yichao Wang, Bo Chen, **Pengyue Jia**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang
+Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang
 
 </div>
 </div>
