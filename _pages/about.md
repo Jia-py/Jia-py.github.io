@@ -97,7 +97,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
   Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, **<ins>Pengyue Jia</ins>**\*, Wei Wang, Chengming Li, Xiangyu Zhao\*\
   <span class="badge-inline">AAAI'26</span> \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/EIGML) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/EIGML)
 
-* <span style="font-weight:bold; font-size:16px; color:#205072;">GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization</span>\
+* <span style="font-weight:bold; font-size:16px; color:#205072;">GeoArena: Evaluating Open-World Geographic Reasoning in Large Vision-Language Models </span>\
   **<ins>Pengyue Jia</ins>**†, Yingyi Zhang†, Xiangyu Zhao, Sharon Li\
   <span class="badge-inline">ACL'26 Main</span> \| [**Paper**](https://arxiv.org/abs/2509.04334) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoArena) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoArena)
 
