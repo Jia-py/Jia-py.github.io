@@ -34,6 +34,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.04</strong>: I'm glad to receive the <b>SIGIR'26 Student Travel Grant</b>!</li>
     <li><strong>2026.04</strong>: Six papers are accepted to <b>ACL'26</b>, including GeoArena, congrats to Sheng, Jingyu, Yimin, Xiaopeng, and Derong!</li>
     <li><strong>2026.04</strong>: Three papers are accepted to <b>SIGIR'26</b>, congrats to Derong, Xiaopeng, and Ziwei!</li>
     <li><strong>2026.04</strong>: Our tutorial on Personalized RAG and Agent is accepted to <b>SIGIR'26</b>!</li>
@@ -264,6 +265,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 # 🎖 Honors and Awards
 
+- *2026.04* **SIGIR 2026 Student Travel Grant**, Granted by SIGIR
 - *2025.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
 - *2024.10* **NeurIPS 2024 Scholar Award**, Granted by NeurIPS 2024
 - *2024.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
