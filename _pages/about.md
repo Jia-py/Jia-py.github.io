@@ -86,6 +86,14 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 ### Selected Publications
 
+* <span style="font-weight:bold; font-size:16px; color:#205072;">UniRank: Unified List-wise Reranking via Confidence-Ordered Denoising</span>\
+  **<ins>Pengyue Jia</ins>**, Hailan Yang, Shuchang Liu, Xiaobei Wang, Wanyu Wang, Xiang Li, Yongqi Liu, Kaiqiao Zhan, Kun Gai, Xiangyu Zhao\
+  **arxiv** \| [**Paper**](http://arxiv.org/abs/2605.10527)
+
+* <span style="font-weight:bold; font-size:16px; color:#205072;">From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space</span>\
+  **<ins>Pengyue Jia</ins>**†, Xiaobei Wang†, Yingyi Zhang†, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao\
+  **arxiv** \| [**Paper**](https://arxiv.org/abs/2604.25291)
+
 * <span style="font-weight:bold; font-size:16px; color:#205072;">GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization</span>\
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2603.24376)
