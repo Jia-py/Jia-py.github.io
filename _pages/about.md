@@ -273,6 +273,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 # 🎖 Honors and Awards
 
+- *2026.05* **ICML 2026 Silver Reviewer Award**, Granted by ICML
 - *2026.04* **SIGIR 2026 Student Travel Grant**, Granted by SIGIR
 - *2025.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
 - *2024.10* **NeurIPS 2024 Scholar Award**, Granted by NeurIPS 2024
@@ -319,7 +320,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 <!-- * 2023: KDD, Recsys, NeurIPS -->
 * 2024: KDD, ACM TKDD, CIKM
 * 2025: KDD, WWW, ARR, NeurIPS, ACM TKDD
-* 2026: AAAI, ICLR, CVPR, ICML, ARR, SIGIR, ACM TKDD
+* 2026: AAAI, ICLR, CVPR, ICML (Silver Reviewer Award), ARR, SIGIR, ACM TKDD
 
 ## Volunteer
 
