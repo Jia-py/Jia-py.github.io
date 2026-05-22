@@ -282,7 +282,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 - *2024.07* **KDD24 student travel award**, Granted by KDD
 - *2023.12* **AAAI24 student scholarship**, Granted by AAAI
 - *2020.12* **Academic Excellence Award**, Granted by **Zhejiang University**
-- *2020.06* **Second Place🥈 in LA COVID-19 Computational Challenge**, Granted by **RMDS & The Government of LA**
+- *2020.06* **Second Place🥈 in LA COVID-19 Computational Challenge**, Granted by **RMDS & The Government of LA** [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/covid-19-LA-certificate.png)]
 
 # 📖 Educations
 - *2026.05 - 2026.08*, Visiting PhD Student in College of Computing and Data Science, Nanyang Technological University, supervised by Prof. Yuxuan Du and Prof. Dacheng Tao.
