@@ -209,7 +209,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 **<ins>Pengyue Jia</ins>**†, Xiaopeng Li†, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu and Xiangyu Zhao
 
-<!-- [**Home Page**](https://applied-machine-learning-lab.github.io/KDD25-Tutorial-LLM-Enhanced-RecSys/about) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-LLM-Enhanced-Recommender-Systems) -->
+[**Home Page**](https://applied-machine-learning-lab.github.io/SIGIR2026_PRAG_Tutorial/) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)
 
 </div>
 </div>
@@ -264,9 +264,11 @@ Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, Xiao Han, **<ins>Pengyue Jia</in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'2023</div><img src='images/IJCAI23_joint_modeling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Joint Modeling in Recommendations: Foundations and Frontiers](https://zhaoxyai.github.io/paper/jointmodeling.pdf)
+*Joint Modeling in Recommendations: Foundations and Frontiers*
 
 Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang
+
+[**Slides**](https://zhaoxyai.github.io/paper/jointmodeling.pdf)
 
 </div>
 </div>
@@ -320,12 +322,14 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 <!-- * 2023: KDD, Recsys, NeurIPS -->
 * 2024: KDD, ACM TKDD, CIKM
 * 2025: KDD, WWW, ARR, NeurIPS, ACM TKDD
-* 2026: AAAI, ICLR, CVPR, ICML (Silver Reviewer Award), ARR, SIGIR, ACM TKDD
+* 2026: AAAI, ICLR, CVPR, ICML (Silver Reviewer Award), ARR, SIGIR, ACM TKDD, CIKM
+* 2027: AAAI
 
 ## Volunteer
 
 * 2024: AAAI, NAACL, KDD [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD2024_Volunteer_Certificate.pdf)]
 * 2025: WWW, ACL, NeurIPS
+* 2026: SIGIR
 
 <span class='anchor' id='-teaching'></span>
 
