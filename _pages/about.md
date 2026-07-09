@@ -290,7 +290,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 - *2020.06* **Second Place🥈 in LA COVID-19 Computational Challenge**, Granted by **RMDS & The Government of LA** [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/covid-19-LA-certificate.png)]
 
 # 📖 Educations
-- *2026.05 - 2026.08*, Visiting PhD Student in College of Computing and Data Science, Nanyang Technological University, supervised by Prof. Yuxuan Du and Prof. Dacheng Tao.
+- *2026.05 - 2026.08*, Visiting PhD Student in College of Computing and Data Science, Nanyang Technological University, supervised by Prof. Dacheng Tao.
 - *2025.03 - 2025.10*, Visiting PhD Student in Computer Science, University of Wisconsin-Madison, supervised by Prof. Sharon Li.
 - *2023.01 - now*, PhD candidate in Data Science, AML lab, City University of Hong Kong, supervised by Prof. Xiangyu Zhao.
 - *2021.09 - 2022.12*, MSc in Computer Science, The University of Hong Kong
