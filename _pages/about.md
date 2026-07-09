@@ -34,6 +34,8 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.07</strong>: I'm honored to receive the <b>Goertek Scholarship</b>, awarded to <b>15
+  students university-wide</b>!</li>
     <li><strong>2026.04</strong>: I'm glad to receive the <b>SIGIR'26 Student Travel Grant</b>!</li>
     <li><strong>2026.04</strong>: Six papers are accepted to <b>ACL'26</b>, including GeoArena, congrats to Sheng, Jingyu, Yimin, Xiaopeng, and Derong!</li>
     <li><strong>2026.04</strong>: Three papers are accepted to <b>SIGIR'26</b>, congrats to Derong, Xiaopeng, and Ziwei!</li>
@@ -275,6 +277,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 # 🎖 Honors and Awards
 
+- *2026.07* **Goertek Scholarships**, Awarded $5000 HKD, 15 students university-wide, Granted by Goertek Inc.
 - *2026.05* **ICML 2026 Silver Reviewer Award**, Granted by ICML
 - *2026.04* **SIGIR 2026 Student Travel Grant**, Granted by SIGIR
 - *2025.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
