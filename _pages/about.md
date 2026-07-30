@@ -20,7 +20,7 @@ redirect_from:
 I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from The University of Hong Kong (HKU) with a master's degree in Computer Science. My research interest includes Recommender System, Information Retrieval, Large Language Models, and GeoAI. 
 <!-- <a href='https://scholar.google.com/citations?user=htpkMJcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-# 🔥 News
+# News
 
 <style>
   .scrollable {
@@ -80,7 +80,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
   </ul>
 </div>
 
-# 📝 Publications
+# Publications
 
 ## Conference and Journal Publications
 
@@ -275,7 +275,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 
 - *2026.07* **Goertek Scholarships**, Awarded $5000 HKD, 15 students university-wide, Granted by Goertek Inc.
 - *2026.05* **ICML 2026 Silver Reviewer Award**, Granted by ICML
@@ -289,14 +289,14 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 - *2020.12* **Academic Excellence Award**, Granted by **Zhejiang University**
 - *2020.06* **Second Place🥈 in LA COVID-19 Computational Challenge**, Granted by **RMDS & The Government of LA** [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/covid-19-LA-certificate.png)]
 
-# 📖 Educations
+# Educations
 - *2026.05 - 2026.08*, Visiting PhD Student in College of Computing and Data Science, Nanyang Technological University, supervised by Prof. Dacheng Tao.
 - *2025.03 - 2025.10*, Visiting PhD Student in Computer Science, University of Wisconsin-Madison, supervised by Prof. Sharon Li.
 - *2023.01 - now*, PhD candidate in Data Science, AML lab, City University of Hong Kong, supervised by Prof. Xiangyu Zhao.
 - *2021.09 - 2022.12*, MSc in Computer Science, The University of Hong Kong
 - *2017.09 - 2021.06*, BSc in Geographic Information Science, Zhejiang University
 
-# 💬 Invited Talks
+# Invited Talks
 
 <!-- - *2024.08*, Huawei Noah's Ark Lab, Multi-domain Recommendation -->
 - *2024.07*, [DataFun Open Class](https://www.datafuntalk.com/detail/l_669a1a84e4b0d84dab0558ab/4), LLM for Query Expansion in IR
@@ -304,7 +304,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 <span class='anchor' id='-internships'></span>
 
-# 💻 Internships & Exchange
+# Internships & Exchange
 
 - *2025.10 - now*, Research Intern, Kuaishou Technology, Beijing, China
 - *2023.06 - 2025.07*, Research Intern, Baidu Search Science Team, Beijing, China
@@ -318,7 +318,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 <span class='anchor' id='-services'></span>
 
-# ✏️ Services
+# Services
 
 ## Reviewer
 
@@ -336,7 +336,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 <span class='anchor' id='-teaching'></span>
 
-# 🏫 Teaching
+# Teaching
 
 - **2026.01 - 2026.06**, Teaching Assistant, SDSC 6001 Statistical Machine Learning II.
 - **2025.01 - 2025.06**, Teaching Assistant, SDSC 6001 Statistical Machine Learning II.
