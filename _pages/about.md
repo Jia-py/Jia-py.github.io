@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from The University of Hong Kong (HKU) with a master's degree in Computer Science. My research interest includes Large Language Models, Information Retrieval, Agent, and GeoAI. 
+I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/). Currently, I am a visiting PhD student at Nanyang Technological University (NTU), working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/entities/person/Tao-Dacheng). Previously, I was a visiting PhD student at UW–Madison, working with [Prof. Sharon Li](https://pages.cs.wisc.edu/~sharonli/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from The University of Hong Kong (HKU) with a master's degree in Computer Science. My research interest includes Large Language Models, Information Retrieval, Agent, and GeoAI. 
 <!-- <a href='https://scholar.google.com/citations?user=htpkMJcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # News
@@ -290,9 +290,9 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 - *2020.06* **Second Place🥈 in LA COVID-19 Computational Challenge**, Granted by **RMDS & The Government of LA** [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/covid-19-LA-certificate.png)]
 
 # Educations
-- *2026.05 - 2026.08*, Visiting PhD Student in College of Computing and Data Science, Nanyang Technological University, supervised by Prof. Dacheng Tao.
-- *2025.03 - 2025.10*, Visiting PhD Student in Computer Science, University of Wisconsin-Madison, supervised by Prof. Sharon Li.
-- *2023.01 - now*, PhD candidate in Data Science, AML lab, City University of Hong Kong, supervised by Prof. Xiangyu Zhao.
+- *2026.05 - 2026.08*, Visiting PhD Student in College of Computing and Data Science, Nanyang Technological University, supervised by [Prof. Dacheng Tao](https://dr.ntu.edu.sg/entities/person/Tao-Dacheng).
+- *2025.03 - 2025.10*, Visiting PhD Student in Computer Science, University of Wisconsin-Madison, supervised by [Prof. Sharon Li](https://pages.cs.wisc.edu/~sharonli/).
+- *2023.01 - now*, PhD candidate in Data Science, AML lab, City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/).
 - *2021.09 - 2022.12*, MSc in Computer Science, The University of Hong Kong
 - *2017.09 - 2021.06*, BSc in Geographic Information Science, Zhejiang University
 
@@ -308,11 +308,11 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 - *2025.10 - now*, Research Intern, Kuaishou Technology, Beijing, China
 - *2023.06 - 2025.07*, Research Intern, Baidu Search Science Team, Beijing, China
-<!-- - *2023.02 - now*, Research Intern, Huawei Noah's Ark Lab -->
+<!-- - *2023.02 - now*, Research Student, Huawei Noah's Ark Lab -->
 - *2022.06 - 2022.12*, Ad Recommendation Algorithm Intern, Meituan DaoDian Business Group, Shanghai, China.
 - *2020.10 - 2021.01*, Data Analysis Intern, Zhejiang Lab, Hangzhou, China.
-- 2019.07 - 2019.08, Summer Session Student, Department of Geography & Geographic Information Science, University of Illinois Urbana-Champaign, USA.
-- 2018.07 - 2018.08, Summer Session Student, Shizuoka University, Japan.
+- *2019.07 - 2019.08*, Summer Session Student, Department of Geography & Geographic Information Science, University of Illinois Urbana-Champaign, USA.
+- *2018.07 - 2018.08*, Summer Session Student, Shizuoka University, Japan.
 
 
 
@@ -325,8 +325,8 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 <!-- * 2023: KDD, Recsys, NeurIPS -->
 * 2024: KDD, ACM TKDD, CIKM
 * 2025: KDD, WWW, ARR, NeurIPS, ACM TKDD
-* 2026: AAAI, ICLR, CVPR, ICML (Silver Reviewer Award), ARR, SIGIR, ACM TKDD, CIKM
-* 2027: AAAI
+* 2026: AAAI, ICLR, CVPR, ICML (Silver Reviewer Award), ARR, SIGIR, ACM TKDD, CIKM, TOIS
+* 2027: AAAI(SPC)
 
 ## Volunteer
 
