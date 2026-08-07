@@ -143,7 +143,7 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models</span>\
   **<ins>Pengyue Jia</ins>**, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
-  <span class="badge-inline">NeurIPS'24</span> \| [**Paper**](https://arxiv.org/abs/2405.14702) \| [**Code**](https://github.com/Applied-Machine-Learning-Lab/G3) \| [**MP16-Pro Dataset (5000+ downloads)**](https://huggingface.co/datasets/Jia-py/MP16-Pro/tree/main) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/G3)
+  <span class="badge-inline">NeurIPS'24</span> \| [**Paper**](https://arxiv.org/abs/2405.14702) \| [**Code**](https://github.com/Applied-Machine-Learning-Lab/G3) \| [**MP16-Pro Dataset (7500+ downloads)**](https://huggingface.co/datasets/Jia-py/MP16-Pro/tree/main) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/G3)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems</span>\
   **<ins>Pengyue Jia</ins>**†, Yejing Wang†, Zhaocheng Du†, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang\
@@ -326,7 +326,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 * 2024: KDD, ACM TKDD, CIKM
 * 2025: KDD, WWW, ARR, NeurIPS, ACM TKDD
 * 2026: AAAI, ICLR, CVPR, ICML (Silver Reviewer Award), ARR, SIGIR, ACM TKDD, CIKM, TOIS
-* 2027: AAAI(SPC)
+* 2027: AAAI (SPC)
 
 ## Volunteer
 
