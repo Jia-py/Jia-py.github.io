@@ -116,8 +116,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
   <span class="badge-inline">ACL'26 Main</span> \| [**Paper**](https://arxiv.org/abs/2509.04334) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoArena) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoArena)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Deep research: A survey of autonomous research agents</span>\
-  Derong Xu†, **<ins>Pengyue Jia</ins>**†, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong Liu, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Ruiming Tang, Enhong Chen, Tong Xu\
-  Wenlin Zhang†, Xiaopeng Li†, Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Yichao Wang, Huifeng Guo, Yong Liu, Xiangyu Zhao
+  Wenlin Zhang†, Xiaopeng Li†, Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Yichao Wang, Huifeng Guo, Yong Liu, Xiangyu Zhao\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2508.12752)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation</span>\
