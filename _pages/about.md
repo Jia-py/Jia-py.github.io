@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU HK supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/). Currently, I am a visiting PhD student at Nanyang Technological University (NTU), working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/entities/person/Tao-Dacheng). Previously, I was a visiting PhD student at UW–Madison, working with [Prof. Sharon Li](https://pages.cs.wisc.edu/~sharonli/). Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from The University of Hong Kong (HKU) with a master's degree in Computer Science. My research interest includes Large Language Models, Information Retrieval, Agent, and GeoAI. 
+I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) City University of Hong Kong supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/). 
+<!-- Currently, I am a visiting PhD student at Nanyang Technological University (NTU), working with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/entities/person/Tao-Dacheng). Previously, I was a visiting PhD student at UW–Madison, working with [Prof. Sharon Li](https://pages.cs.wisc.edu/~sharonli/).  -->
+I was a visiting PhD student at Nanyang Technological University (NTU) with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/entities/person/Tao-Dacheng) in 2026, and at University of Wisconsin - Madison (UW–Madison) with [Prof. Sharon Li](https://pages.cs.wisc.edu/~sharonli/) in 2025.
+Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree in Geographic Information Science and from The University of Hong Kong (HKU) with a master's degree in Computer Science. My research interest includes Large Language Models, Information Retrieval, Agent, and GeoAI. 
 <!-- <a href='https://scholar.google.com/citations?user=htpkMJcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # News
@@ -112,9 +115,14 @@ I am now a fourth-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) 
   **<ins>Pengyue Jia</ins>**†, Yingyi Zhang†, Xiangyu Zhao, Sharon Li\
   <span class="badge-inline">ACL'26 Main</span> \| [**Paper**](https://arxiv.org/abs/2509.04334) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/GeoArena) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/GeoArena)
 
+* <span style="font-weight:bold; font-size:16px; color:#205072;">Deep research: A survey of autonomous research agents</span>\
+  Derong Xu†, **<ins>Pengyue Jia</ins>**†, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong Liu, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Ruiming Tang, Enhong Chen, Tong Xu\
+  Wenlin Zhang†, Xiaopeng Li†, Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Yichao Wang, Huifeng Guo, Yong Liu, Xiangyu Zhao
+  **arxiv** \| [**Paper**](https://arxiv.org/abs/2508.12752)
+
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation</span>\
   Derong Xu†, **<ins>Pengyue Jia</ins>**†, Xiaopeng Li, Yingyi Zhang, Maolin Wang, Qidong Liu, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Ruiming Tang, Enhong Chen, Tong Xu\
-  **arxiv** \| [**Paper**](https://arxiv.org/abs/2505.16237) 
+  **arxiv** \| [**Paper**](https://arxiv.org/abs/2505.16237)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization</span>\
   **<ins>Pengyue Jia</ins>**, Seongheon Park, Song Gao, Xiangyu Zhao, Sharon Li\
@@ -306,7 +314,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 # Internships & Exchange
 
-- *2025.10 - now*, Research Intern, Kuaishou Technology, Beijing, China
+- *2025.10 - 2026.08*, Research Intern, Kuaishou Technology, Beijing, China
 - *2023.06 - 2025.07*, Research Intern, Baidu Search Science Team, Beijing, China
 <!-- - *2023.02 - now*, Research Student, Huawei Noah's Ark Lab -->
 - *2022.06 - 2022.12*, Ad Recommendation Algorithm Intern, Meituan DaoDian Business Group, Shanghai, China.
