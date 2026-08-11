@@ -94,7 +94,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">UniRank: Unified List-wise Reranking via Confidence-Ordered Denoising</span>\
   **<ins>Pengyue Jia</ins>**, Hailan Yang, Shuchang Liu, Xiaobei Wang, Wanyu Wang, Xiang Li, Yongqi Liu, Kaiqiao Zhan, Kun Gai, Xiangyu Zhao\
-  **arxiv** \| [**Paper**](http://arxiv.org/abs/2605.10527)
+  **arxiv** \| [**Paper**](http://arxiv.org/abs/2605.10527) \| <b>Deployed in the Kuaishou APP.</b>
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization</span>\
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
@@ -102,7 +102,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space</span>\
   **<ins>Pengyue Jia</ins>**†, Xiaobei Wang†, Yingyi Zhang†, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao\
-  <span class="badge-inline">CIKM'26</span> \| [**Paper**](https://arxiv.org/abs/2604.25291)
+  <span class="badge-inline">CIKM'26</span> \| [**Paper**](https://arxiv.org/abs/2604.25291) \| <b>Deployed in the Kuaishou APP.</b>
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval</span>\
   Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao\
@@ -159,7 +159,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations</span>\
   **<ins>Pengyue Jia</ins>**, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Huifeng Guo, Ruiming Tang\
-  <span class="badge-inline">AAAI'24</span> \| Deployed in the production environment with 100% traffic.
+  <span class="badge-inline">AAAI'24</span> \| <b>Deployed in the production environment with 100% traffic.</b>
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion</span>\
   **<ins>Pengyue Jia</ins>**, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin\
