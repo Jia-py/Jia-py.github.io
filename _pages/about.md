@@ -143,7 +143,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems</span>\
   **<ins>Pengyue Jia</ins>**, Zhaocheng Du, Yichao Wang, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
-  <span class="badge-inline">CIKM'25</span>
+  <span class="badge-inline">CIKM'25</span> \| [**Paper**](https://arxiv.org/abs/2412.08516)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Second Place Overall Solution for Amazon KDD Cup 2024</span>\
   **<ins>Pengyue Jia</ins>**†, Jingtong Gao†, Xiaopeng Li†, Zixuan Wang†, Yiyao Jin†, Xiangyu Zhao\
@@ -167,7 +167,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model</span>\
   **<ins>Pengyue Jia</ins>**, Ling Chen, Dandan Lyu\
-  <span class="badge-inline">Cybernetics and Systems</span>
+  <span class="badge-inline">Cybernetics and Systems</span> \| [**Paper**](https://www.tandfonline.com/doi/full/10.1080/01969722.2022.2103614)
 
 
 ### Other Work
