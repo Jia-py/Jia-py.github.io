@@ -100,6 +100,10 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2603.24376)
 
+* <span style="font-weight:bold; font-size:16px; color:#205072;">M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering</span>\
+  Bowen Liu†, **<ins>Pengyue Jia</ins>**†, Wanyu Wang, Maolin Wang, Xiao Han, Xiangyu Zhao\
+  <span class="badge-inline">CIKM'26</span>
+
 * <span style="font-weight:bold; font-size:16px; color:#205072;">From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space</span>\
   **<ins>Pengyue Jia</ins>**†, Xiaobei Wang†, Yingyi Zhang†, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao\
   <span class="badge-inline">CIKM'26</span> \| [**Paper**](https://arxiv.org/abs/2604.25291) \| <b>Deployed in the Kuaishou APP.</b>
@@ -182,8 +186,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 <div class="scrollable-work">
   <ul>
     <!-- <li><strong>21.</strong> , <b>ACL'26</b>.</li> -->
-    <li><strong>27.</strong> Learning a Single Token to Replace Long System Prompts in LLMs, Jiancheng Dong, <b><u>Pengyue Jia</u></b>, Jingyu Peng, Maolin Wang, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, <b>CIKM'26</b>.</li>
-    <li><strong>26.</strong> M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering, Bowen Liu, <b><u>Pengyue Jia</u></b>, Wanyu Wang, Maolin Wang, Xiao Han, Xiangyu Zhao, <b>CIKM'26</b>.</li>
+    <li><strong>26.</strong> Learning a Single Token to Replace Long System Prompts in LLMs, Jiancheng Dong, <b><u>Pengyue Jia</u></b>, Jingyu Peng, Maolin Wang, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, <b>CIKM'26</b>.</li>
     <li><strong>25.</strong> Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory, Derong Xu, Shuochen Liu, Pengfei Luo, <b><u>Pengyue Jia</u></b>, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao, Tong Xu, <b>ACL'26 Main</b>.</li>
     <li><strong>24.</strong> MTA:A Merge-then-Adapt Framework for Personalized Large Language Models, Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, Wenlin Zhang, <b><u>Pengyue Jia</u></b>, Yingyi Zhang, Haiying He, Mengyang Ma, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao, <b>ACL'26 Main</b>.</li>
     <li><strong>23.</strong> MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning, Yimin Deng, Zhenxi Lin, Yejing Wang, Xian Wu, <b><u>Pengyue Jia</u></b>, Zichuan Fu, Derong Xu, Yefeng Zheng, Xiangyu Zhao, Guoshuai Zhao, Li Zhu, Xueming Qian, <b>ACL'26 Findings</b>.</li>
