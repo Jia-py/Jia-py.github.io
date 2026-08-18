@@ -100,13 +100,13 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
   **arxiv** \| [**Paper**](https://arxiv.org/abs/2603.24376)
 
-* <span style="font-weight:bold; font-size:16px; color:#205072;">M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering</span>\
-  Bowen Liu†, **<ins>Pengyue Jia</ins>**†, Wanyu Wang, Maolin Wang, Xiao Han, Xiangyu Zhao\
-  <span class="badge-inline">CIKM'26</span>
-
 * <span style="font-weight:bold; font-size:16px; color:#205072;">From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space</span>\
   **<ins>Pengyue Jia</ins>**†, Xiaobei Wang†, Yingyi Zhang†, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao\
   <span class="badge-inline">CIKM'26</span> \| [**Paper**](https://arxiv.org/abs/2604.25291) \| <b>Deployed in the Kuaishou APP.</b>
+
+* <span style="font-weight:bold; font-size:16px; color:#205072;">M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering</span>\
+  Bowen Liu†, **<ins>Pengyue Jia</ins>**†, Wanyu Wang, Maolin Wang, Xiao Han, Xiangyu Zhao\
+  <span class="badge-inline">CIKM'26</span>
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval</span>\
   Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao\
