@@ -37,9 +37,9 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.08</strong>: One paper is accepted to <b>EMNLP'26</b>, congrats to Jiancheng.</li>
     <li><strong>2026.08</strong>: Three papers are accepted to <b>CIKM'26</b>, including GloRank, congrats to Jiancheng and Bowen!</li>
-    <li><strong>2026.07</strong>: I'm honored to receive the <b>Goertek Scholarship</b>, awarded to <b>11
-  students university-wide</b>!</li>
+    <li><strong>2026.07</strong>: I'm honored to receive the <b>Goertek Scholarship</b>, awarded to <b>11 students university-wide</b>!</li>
     <li><strong>2026.04</strong>: I'm glad to receive the <b>SIGIR'26 Student Travel Grant</b>!</li>
     <li><strong>2026.04</strong>: Six papers are accepted to <b>ACL'26</b>, including GeoArena, congrats to Sheng, Jingyu, Yimin, Xiaopeng, and Derong!</li>
     <li><strong>2026.04</strong>: Three papers are accepted to <b>SIGIR'26</b>, congrats to Derong, Xiaopeng, and Ziwei!</li>
@@ -186,6 +186,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 <div class="scrollable-work">
   <ul>
     <!-- <li><strong>21.</strong> , <b>ACL'26</b>.</li> -->
+    <li><strong>27.</strong> How to Utilize Complementary Vision-Text Information for 2D Structure Understanding, Jiancheng Dong, <b><u>Pengyue Jia</u></b>, Derong Xu, Jiawei Cheng, Jingyu Peng, Chao Zhang, Bowen Liu, Xin Sun, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, <b>EMNLP'26 Main</b>.</li>
     <li><strong>26.</strong> Learning a Single Token to Replace Long System Prompts in LLMs, Jiancheng Dong, <b><u>Pengyue Jia</u></b>, Jingyu Peng, Maolin Wang, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, <b>CIKM'26</b>.</li>
     <li><strong>25.</strong> Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory, Derong Xu, Shuochen Liu, Pengfei Luo, <b><u>Pengyue Jia</u></b>, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao, Tong Xu, <b>ACL'26 Main</b>.</li>
     <li><strong>24.</strong> MTA:A Merge-then-Adapt Framework for Personalized Large Language Models, Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, Wenlin Zhang, <b><u>Pengyue Jia</u></b>, Yingyi Zhang, Haiying He, Mengyang Ma, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao, <b>ACL'26 Main</b>.</li>
