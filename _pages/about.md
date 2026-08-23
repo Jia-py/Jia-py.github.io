@@ -320,6 +320,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 # Internships & Exchange
 
+- *2026.08 - now*, Research Intern, Alibaba Tongyi Lab, Hangzhou, China
 - *2025.10 - 2026.08*, Research Intern, Kuaishou Technology, Beijing, China
 - *2023.06 - 2025.07*, Research Intern, Baidu Search Science Team, Beijing, China
 <!-- - *2023.02 - now*, Research Student, Huawei Noah's Ark Lab -->
