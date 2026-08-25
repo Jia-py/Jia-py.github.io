@@ -92,6 +92,10 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 ### Selected Publications
 
+* <span style="font-weight:bold; font-size:16px; color:#205072;">Worldwide Image Geolocalization in the Foundation Model Era: A Survey</span>\
+  **<ins>Pengyue Jia</ins>**, Song Gao, Sharon Li, Xiangyu Zhao\
+  **Preprints** \| [**Paper**](https://www.preprints.org/manuscript/202608.1749) \| [**Github**](https://github.com/Jia-py/Awesome-Worldwide-Image-Geolocalization) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Jia-py/Awesome-Worldwide-Image-Geolocalization)
+
 * <span style="font-weight:bold; font-size:16px; color:#205072;">UniRank: Unified List-wise Reranking via Confidence-Ordered Denoising</span>\
   **<ins>Pengyue Jia</ins>**, Hailan Yang, Shuchang Liu, Xiaobei Wang, Wanyu Wang, Xiang Li, Yongqi Liu, Kaiqiao Zhan, Kun Gai, Xiangyu Zhao\
   **arxiv** \| [**Paper**](http://arxiv.org/abs/2605.10527) \| <b>Deployed in the Kuaishou APP.</b>
