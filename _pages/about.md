@@ -37,6 +37,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.09</strong>: I'm honored to received the Research Tuition Scholarship (RTS) and Outstanding Academic Performance Award (OAPA) granted by CityU HK.</li>
     <li><strong>2026.08</strong>: One paper is accepted to <b>EMNLP'26</b>, congrats to Jiancheng.</li>
     <li><strong>2026.08</strong>: Three papers are accepted to <b>CIKM'26</b>, including GloRank, congrats to Jiancheng and Bowen!</li>
     <li><strong>2026.07</strong>: I'm honored to receive the <b>Goertek Scholarship</b>, awarded to <b>11 students university-wide</b>!</li>
@@ -295,6 +296,8 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 # Honors and Awards
 
+- *2026.09* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
+- *2026.09* **Research Tuition Scholarship**, Granted by CityUHK
 - *2026.07* **Goertek Scholarships**, Awarded $5000 HKD, 11 students university-wide, with just 1 recipient from the Department of Data Science, Granted by Goertek Inc.
 - *2026.05* **ICML 2026 Silver Reviewer Award**, Granted by ICML
 - *2026.04* **SIGIR 2026 Student Travel Grant**, Granted by SIGIR
@@ -345,7 +348,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 * 2024: KDD, ACM TKDD, CIKM
 * 2025: KDD, WWW, ARR, NeurIPS, ACM TKDD
 * 2026: AAAI, ICLR, CVPR, ICML (Silver Reviewer Award), ARR, SIGIR, ACM TKDD, CIKM, TOIS
-* 2027: AAAI (SPC)
+* 2027: AAAI (SPC), ICLR
 
 ## Volunteer
 
