@@ -37,6 +37,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.09</strong>: Four papers are accepted to <b>NeurIPS'26</b>, including GeoRouter and UniRank, congrats to Yi!</li>
     <li><strong>2026.09</strong>: I'm honored to received the Research Tuition Scholarship (RTS) and Outstanding Academic Performance Award (OAPA) granted by CityU HK.</li>
     <li><strong>2026.08</strong>: One paper is accepted to <b>EMNLP'26</b>, congrats to Jiancheng.</li>
     <li><strong>2026.08</strong>: Three papers are accepted to <b>CIKM'26</b>, including GloRank, congrats to Jiancheng and Bowen!</li>
@@ -99,11 +100,11 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">UniRank: Unified List-wise Reranking via Confidence-Ordered Denoising</span>\
   **<ins>Pengyue Jia</ins>**, Hailan Yang, Shuchang Liu, Xiaobei Wang, Wanyu Wang, Xiang Li, Yongqi Liu, Kaiqiao Zhan, Kun Gai, Xiangyu Zhao\
-  **arxiv** \| [**Paper**](http://arxiv.org/abs/2605.10527) \| <b>Deployed in the Kuaishou APP.</b>
+  <span class="badge-inline">NeurIPS'26</span> \| [**Paper**](http://arxiv.org/abs/2605.10527) \| <b>Deployed in the Kuaishou APP.</b>
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization</span>\
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
-  **arxiv** \| [**Paper**](https://arxiv.org/abs/2603.24376)
+  <span class="badge-inline">NeurIPS'26</span> \| [**Paper**](https://arxiv.org/abs/2603.24376)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space</span>\
   **<ins>Pengyue Jia</ins>**†, Xiaobei Wang†, Yingyi Zhang†, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao\
@@ -191,6 +192,8 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 <div class="scrollable-work">
   <ul>
     <!-- <li><strong>21.</strong> , <b>ACL'26</b>.</li> -->
+    <li><strong>29.</strong> TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment, Yi Wen, Hao Chen, Wanyu Wang, Maolin Wang, <b><u>Pengyue Jia</u></b>, Derong Xu, Hui-Ze Tan, Yingyi Zhang, Wenlin Zhang, weihongluo, Xiku Du, Xiangyu Zhao, <b>NeurIPS'26</b>.</li>
+    <li><strong>28.</strong> Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies, Yi Wen, Derong Xu, <b><u>Pengyue Jia</u></b>, Yichao Wang, Yingyi Zhang, Maolin Wang, Junyi Li, Wenlin Zhang, Xiaopeng Li, Yong Liu, Xiangyu Zhao, <b>NeurIPS'26</b>.</li>
     <li><strong>27.</strong> How to Utilize Complementary Vision-Text Information for 2D Structure Understanding, Jiancheng Dong, <b><u>Pengyue Jia</u></b>, Derong Xu, Jiawei Cheng, Jingyu Peng, Chao Zhang, Bowen Liu, Xin Sun, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, <b>EMNLP'26 Main</b>.</li>
     <li><strong>26.</strong> Learning a Single Token to Replace Long System Prompts in LLMs, Jiancheng Dong, <b><u>Pengyue Jia</u></b>, Jingyu Peng, Maolin Wang, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao, <b>CIKM'26</b>.</li>
     <li><strong>25.</strong> Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory, Derong Xu, Shuochen Liu, Pengfei Luo, <b><u>Pengyue Jia</u></b>, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao, Tong Xu, <b>ACL'26 Main</b>.</li>
