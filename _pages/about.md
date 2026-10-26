@@ -37,6 +37,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.10</strong>: I will serve as the AC in <b>WWW'27</b>.</li>
     <li><strong>2026.09</strong>: Four papers are accepted to <b>NeurIPS'26</b>, including GeoRouter and UniRank, congrats to Yi!</li>
     <li><strong>2026.09</strong>: I'm honored to received the Research Tuition Scholarship (RTS) and Outstanding Academic Performance Award (OAPA) granted by CityU HK.</li>
     <li><strong>2026.08</strong>: One paper is accepted to <b>EMNLP'26</b>, congrats to Jiancheng.</li>
@@ -94,6 +95,10 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 ### Selected Publications
 
+* <span style="font-weight:bold; font-size:16px; color:#205072;">Recall Begets Recall: Recurrent Memory Ranking for Personalized LLMs</span>\
+  **<ins>Pengyue Jia</ins>**†, Shida Yan†, Shunyu Liu, Yingyi Zhang, Leszek Rutkowski, Chenyang Lyu, Dacheng Tao\
+  **arxiv** \| [**Paper**](https://arxiv.org/abs/2610.16137v1)
+
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Worldwide Image Geolocalization in the Foundation Model Era: A Survey</span>\
   **<ins>Pengyue Jia</ins>**, Song Gao, Sharon Li, Xiangyu Zhao\
   **Preprints** \| [**Paper**](https://www.preprints.org/manuscript/202608.1749) \| [**Github**](https://github.com/Jia-py/Awesome-Worldwide-Image-Geolocalization) \| ![GitHub Repo stars](https://img.shields.io/github/stars/Jia-py/Awesome-Worldwide-Image-Geolocalization)
@@ -104,7 +109,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization</span>\
   **<ins>Pengyue Jia</ins>**, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, Yuanshao Zhu, Xiangyu Zhao\
-  <span class="badge-inline">NeurIPS'26</span> \| [**Paper**](https://arxiv.org/abs/2603.24376)
+  <span class="badge-inline">NeurIPS'26</span> \| [**Paper**](https://arxiv.org/abs/2603.24376) \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/NeurIPS2026_GeoRouter)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space</span>\
   **<ins>Pengyue Jia</ins>**†, Xiaobei Wang†, Yingyi Zhang†, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao\
@@ -112,7 +117,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering</span>\
   Bowen Liu†, **<ins>Pengyue Jia</ins>**†, Wanyu Wang, Maolin Wang, Xiao Han, Xiangyu Zhao\
-  <span class="badge-inline">CIKM'26</span>
+  <span class="badge-inline">CIKM'26</span> \| [**Github**](https://github.com/Applied-Machine-Learning-Lab/CIKM2026_M2DNA)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval</span>\
   Yingyi Zhang†, **<ins>Pengyue Jia</ins>**†, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao\
@@ -225,6 +230,18 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 </div>
 
 ## Tutorials and Workshops
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM'2027</div><img src='images/wsdm2027.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*DeepSearch: 1st Workshop on Deep Search and Research Agents for the Web*
+
+Maolin Wang, **<ins>Pengyue Jia</ins>**, Qidong Liu, Chenyi Zhuang, Yu Yang, Jianliang Xu, Qing Li
+
+[**Home Page**](https://wsdm-agent.github.io/1st-DeepSearch-Workshop-WSDM-2027/index.html)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR'2026</div><img src='images/sigir2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
