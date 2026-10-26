@@ -38,6 +38,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 <div class="scrollable">
   <ul>
     <li><strong>2026.10</strong>: I will serve as the AC in <b>WWW'27</b>.</li>
+    <li><strong>2026.10</strong>: I successfully defended my PhD thesis!</li>
     <li><strong>2026.09</strong>: Four papers are accepted to <b>NeurIPS'26</b>, including GeoRouter and UniRank, congrats to Yi!</li>
     <li><strong>2026.09</strong>: I'm honored to received the Research Tuition Scholarship (RTS) and Outstanding Academic Performance Award (OAPA) granted by CityU HK.</li>
     <li><strong>2026.08</strong>: One paper is accepted to <b>EMNLP'26</b>, congrats to Jiancheng.</li>
@@ -368,13 +369,13 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 * 2024: KDD, ACM TKDD, CIKM
 * 2025: KDD, WWW, ARR, NeurIPS, ACM TKDD
 * 2026: AAAI, ICLR, CVPR, ICML (Silver Reviewer Award), ARR, SIGIR, ACM TKDD, CIKM, TOIS
-* 2027: AAAI (SPC), ICLR
+* 2027: AAAI (SPC), ICLR, WWW (AC)
 
 ## Volunteer
 
 * 2024: AAAI, NAACL, KDD [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD2024_Volunteer_Certificate.pdf)]
 * 2025: WWW, ACL, NeurIPS
-* 2026: SIGIR
+* 2026: SIGIR, NeurIPS
 
 <span class='anchor' id='-teaching'></span>
 
