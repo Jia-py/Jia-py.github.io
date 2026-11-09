@@ -37,6 +37,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.11</strong>: Our survey on generative recommendation is accepted to <b>TKDE</b>, congrats to Xiaopeng!</li>
     <li><strong>2026.10</strong>: I will serve as the AC in <b>WWW'27</b>.</li>
     <li><strong>2026.10</strong>: I successfully defended my PhD thesis!</li>
     <li><strong>2026.09</strong>: Four papers are accepted to <b>NeurIPS'26</b>, including GeoRouter and UniRank, congrats to Yi!</li>
