@@ -320,7 +320,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 # Honors and Awards
 
-- *2026.11* <span class="text-red">Best Student Full Research Paper</span>, Granted by CIKM
+- *2026.11* <span class="text-red">🥇Best Student Full Research Paper</span>, Granted by CIKM
 - *2026.09* Outstanding Academic Performance Award (OAPA), Granted by CityUHK
 - *2026.09* **Research Tuition Scholarship**, Granted by CityUHK
 - *2026.07* **Goertek Scholarships**, Awarded $5000 HKD, 11 students university-wide, with just 1 recipient from the Department of Data Science, Granted by Goertek Inc.
