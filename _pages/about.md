@@ -319,18 +319,19 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 # Honors and Awards
 
-- *2026.09* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
+- *2026.11* **Best Student Full Research Paper**, Granted by CIKM
+- *2026.09* Outstanding Academic Performance Award (OAPA), Granted by CityUHK
 - *2026.09* **Research Tuition Scholarship**, Granted by CityUHK
 - *2026.07* **Goertek Scholarships**, Awarded $5000 HKD, 11 students university-wide, with just 1 recipient from the Department of Data Science, Granted by Goertek Inc.
-- *2026.05* **ICML 2026 Silver Reviewer Award**, Granted by ICML
-- *2026.04* **SIGIR 2026 Student Travel Grant**, Granted by SIGIR
-- *2025.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
-- *2024.10* **NeurIPS 2024 Scholar Award**, Granted by NeurIPS 2024
-- *2024.08* **Outstanding Academic Performance Award (OAPA)**, Granted by CityUHK
+- *2026.05* ICML 2026 Silver Reviewer Award, Granted by ICML
+- *2026.04* SIGIR 2026 Student Travel Grant, Granted by SIGIR
+- *2025.08* Outstanding Academic Performance Award (OAPA), Granted by CityUHK
+- *2024.10* NeurIPS 2024 Scholar Award, Granted by NeurIPS 2024
+- *2024.08* Outstanding Academic Performance Award (OAPA), Granted by CityUHK
 - *2024.07* **Second place🥈 in 2 tracks, third place🥉 in 3 tracks, student awards in 2 tracks in Amazon KDD CUP 2024**, Overall **2/508** teams, Awarded $8750, Granted by Amazon [[link](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)] \| [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)]
-- *2024.07* **KDD24 student travel award**, Granted by KDD
-- *2023.12* **AAAI24 student scholarship**, Granted by AAAI
-- *2020.12* **Academic Excellence Award**, Granted by **Zhejiang University**
+- *2024.07* KDD24 student travel award, Granted by KDD
+- *2023.12* AAAI24 student scholarship, Granted by AAAI
+- *2020.12* Academic Excellence Award, Granted by Zhejiang University
 - *2020.06* **Second Place🥈 in LA COVID-19 Computational Challenge**, Granted by **RMDS & The Government of LA** [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/covid-19-LA-certificate.png)]
 
 # Educations
