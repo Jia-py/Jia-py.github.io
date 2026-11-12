@@ -37,7 +37,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.11</strong>: GloRank won the <span class="text-red">🥇Best Student Full Research Paper Award</span> at <b>CIKM'26</b>.</li>
+    <li><strong>2026.11</strong>: GloRank won the 🥇Best Student Full Research Paper Award at <b>CIKM'26</b>.</li>
     <li><strong>2026.11</strong>: Our survey on generative recommendation is accepted to <b>TKDE</b>, congrats to Xiaopeng!</li>
     <li><strong>2026.10</strong>: I will serve as the AC in <b>WWW'27</b>.</li>
     <li><strong>2026.10</strong>: I successfully defended my PhD thesis!</li>
@@ -165,7 +165,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Second Place Overall Solution for Amazon KDD Cup 2024</span>\
   **<ins>Pengyue Jia</ins>**†, Jingtong Gao†, Xiaopeng Li†, Zixuan Wang†, Yiyao Jin†, Xiangyu Zhao\
-  <span class="badge-inline">KDD Cup Workshop Oral</span> \| [**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page**](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Certificate**](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)
+  <span class="badge-inline">KDD Cup Workshop Oral</span> \| <span class="badge-inline badge-red">🥈 2nd Place Overall (2/508)</span> \| [**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page**](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Certificate**](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models</span>\
   **<ins>Pengyue Jia</ins>**, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
@@ -320,7 +320,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 
 # Honors and Awards
 
-- *2026.11* **Best Student Full Research Paper**, Granted by CIKM
+- *2026.11* <span class="text-red">Best Student Full Research Paper</span>, Granted by CIKM
 - *2026.09* Outstanding Academic Performance Award (OAPA), Granted by CityUHK
 - *2026.09* **Research Tuition Scholarship**, Granted by CityUHK
 - *2026.07* **Goertek Scholarships**, Awarded $5000 HKD, 11 students university-wide, with just 1 recipient from the Department of Data Science, Granted by Goertek Inc.
@@ -329,7 +329,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, **<ins>Pengyue Jia</ins>**, Yuhao Wang, Jing
 - *2025.08* Outstanding Academic Performance Award (OAPA), Granted by CityUHK
 - *2024.10* NeurIPS 2024 Scholar Award, Granted by NeurIPS 2024
 - *2024.08* Outstanding Academic Performance Award (OAPA), Granted by CityUHK
-- *2024.07* **Second place🥈 in 2 tracks, third place🥉 in 3 tracks, student awards in 2 tracks in Amazon KDD CUP 2024**, Overall **2/508** teams, Awarded $8750, Granted by Amazon [[link](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)] \| [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)]
+- *2024.07* <span class="text-red">Second place🥈 in 2 tracks, third place🥉 in 3 tracks, student awards in 2 tracks in Amazon KDD CUP 2024</span>, Overall <span class="text-red">2/508</span> teams, Awarded $8750, Granted by Amazon [[link](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)] \| [[certificate](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)]
 - *2024.07* KDD24 student travel award, Granted by KDD
 - *2023.12* AAAI24 student scholarship, Granted by AAAI
 - *2020.12* Academic Excellence Award, Granted by Zhejiang University
