@@ -37,7 +37,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.11</strong>: GloRank won the 🥇Best Student Full Research Paper Award at <b>CIKM'26</b>.</li>
+    <li><strong>2026.11</strong>: GloRank won the <b>🥇Best Student Full Research Paper Award</b> at <b>CIKM'26</b>.</li>
     <li><strong>2026.11</strong>: Our survey on generative recommendation is accepted to <b>TKDE</b>, congrats to Xiaopeng!</li>
     <li><strong>2026.10</strong>: I will serve as the AC in <b>WWW'27</b>.</li>
     <li><strong>2026.10</strong>: I successfully defended my PhD thesis!</li>
@@ -116,7 +116,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space</span>\
   **<ins>Pengyue Jia</ins>**†, Xiaobei Wang†, Yingyi Zhang†, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao\
-  <span class="badge-inline">CIKM'26 Oral</span> \| <span class="badge-inline badge-red">🥇Best Student Full Research Paper Award</span> \| [**Paper**](https://arxiv.org/abs/2604.25291) \| <b>Deployed in the Kuaishou APP.</b>
+  <span class="badge-inline">CIKM'26 Oral</span> \| <span class="text-red">🥇Best Student Full Research Paper Award</span> \| [**Paper**](https://arxiv.org/abs/2604.25291) \| <b>Deployed in the Kuaishou APP.</b>
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering</span>\
   Bowen Liu†, **<ins>Pengyue Jia</ins>**†, Wanyu Wang, Maolin Wang, Xiao Han, Xiangyu Zhao\
@@ -165,7 +165,7 @@ Before that, I graduated from Zhejiang University (ZJU) with a bachelor's degree
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">Second Place Overall Solution for Amazon KDD Cup 2024</span>\
   **<ins>Pengyue Jia</ins>**†, Jingtong Gao†, Xiaopeng Li†, Zixuan Wang†, Yiyao Jin†, Xiangyu Zhao\
-  <span class="badge-inline">KDD Cup Workshop Oral</span> \| <span class="badge-inline badge-red">🥈 2nd Place Overall (2/508)</span> \| [**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page**](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Certificate**](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)
+  <span class="badge-inline">KDD Cup Workshop Oral</span> \| <span class="text-red">🥈 2nd Place Overall (2/508)</span> \| [**Competition Page**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Workshop Page**](https://amazon-kddcup24.github.io/#) \| [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Certificate**](https://github.com/Jia-py/Jia-py.github.io/blob/main/docs/KDD_Cup_Certificate.pdf)
 
 * <span style="font-weight:bold; font-size:16px; color:#205072;">G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models</span>\
   **<ins>Pengyue Jia</ins>**, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
